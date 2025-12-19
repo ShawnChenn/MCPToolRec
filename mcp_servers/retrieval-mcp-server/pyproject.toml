@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retrieval-mcp-server"
+version = "1.0.0"
+description = "MCP Server for product retrieval and recommendation systems"
+authors = [
+    {name = "MCP Team", email = "team@mcp.dev"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "mcp>=1.0.0",
+    "pandas>=2.0.0", 
+    "numpy>=1.24.0",
+    "scikit-learn>=1.3.0"
+]
+
+[project.scripts]
+retrieval-mcp-server = "retrieval_mcp_server:main"
+
+[tool.setuptools]
+py-modules = ["server"]

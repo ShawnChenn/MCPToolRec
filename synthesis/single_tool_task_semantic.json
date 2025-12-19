@@ -1,0 +1,1052 @@
+[
+  {
+    "user_query": "Looking for a waterproof fitness band with heart rate monitoring, step counter, sleep analysis, long battery, and smart notifications.",
+    "target_item": {
+      "asin": "B014I8T4MO",
+      "title": "AmazonBasics High-Speed HDMI Cable, 10 Feet, 2-Pack",
+      "brand": "AmazonBasics",
+      "category": "Electronics",
+      "description": "An Amazon Brand."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a waterproof fitness band with heart rate monitoring, step counter, sleep analysis, long battery, and smart notifications.",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a waterproof fitness band with heart rate monitoring, step counter, sleep analysis, long battery, and smart notifications.\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a TPM v3.19 module featuring an Infineon chip for enhanced system security",
+    "target_item": {
+      "asin": "B00C2DKC88",
+      "title": "MSI Micro Star Accessory Tpm Module Infineon Chip Tpm V3.19 914-4136-103",
+      "brand": "MSI",
+      "category": "Electronics",
+      "description": "MSI accessory 914-4136-103 TPM module infineon chip TPM V3.19 retail MSI accessory 914-4136-103 TPM module infineon chip TPM V3.19 retail. MSI accessory 914-4136-103 TPM module infineon chip TPM V3.19 retail. Manufacturer: MSI. Manufacturer 914-4136-103 number: MSI. Weight: 3.29 pounds. Brand: MSI"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a TPM v3.19 module featuring an Infineon chip for enhanced system security",
+          "limit": 12,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a TPM v3.19 module featuring an Infineon chip for enhanced system security\", \"limit\": 12, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "Set of RJ45 couplers for Cat5e/Cat6 cables to patch home office network.",
+    "target_item": {
+      "asin": "B00WKPKE40",
+      "title": "[UL Listed] Cable Matters 5-Pack Ethernet Coupler (RJ45 Coupler / Cat5e Cat6 Coupler) in Black",
+      "brand": "Cable Matters",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Set of RJ45 couplers for Cat5e/Cat6 cables to patch home office network.",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Set of RJ45 couplers for Cat5e/Cat6 cables to patch home office network.\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a universal Arca‑compatible quick release plate for stable field tripod mounting.",
+    "target_item": {
+      "asin": "B014TPGJH4",
+      "title": "60mm Universal Arca Swiss Quick Release Plate for Tripod Ball Head with Hand-Adjustable Stainless Steel Screw &amp; Removable Rear Stopper by Breakthrough Photography",
+      "brand": "Breakthrough Photography",
+      "category": "Electronics",
+      "description": "<b>60mm Universal Arca Swiss Quick Release Plate by Breakthrough Photography</b><br><br>Our Arca-Type Quick Release Plate is precisely machined with a high-quality stainless steel hand-adjustable, Allen key, and coin compatible screw. Never be left out in the field with a loose tripod plate again! This Quick Release Plate also features a loop for camera straps, and a removable end-piece allowing the photographer to position the plate flush against the back of the camera body for increased stability.<br><br>We also added two adjustable (and removable) stainless steel screws on either end of the tripod plate to prevent the camera from sliding off by accident if you havent adjusted the tension 100% yet. If your tripod plate is Allen key compatible only, or if you still have the cheap one that comes with your tripod head, get this Arca-Type plate and be done with it.<br><br>Weve also included a high quality weather-resistant zippered bag which we designed to fit 50mm 1.8 lenses, camera batteries, lens cloths, hard drives, shutter release cables and lots of other field gear. Compatible with every Arca-Type tripod head ever manufactured, or your money back.<br><br><b>Features & Benefits:</b><br><ul><li>Universal Compatible</li><li>Stainless Steel Hand-Adjustable Bolt</li><li>Precisely machined with a high-quality stainless steel</li><li>Loop for camera straps</li><li>Removable end-piece to position the plate flush</li></ul><br><b>Item includes:</b><br><ul><li>1 x 60mm Universal Arca Swiss Plate</li><li>1 x Lens Cloth</li></ul><b>Click on Buy now button for complete your purchase!</b>"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a universal Arca‑compatible quick release plate for stable field tripod mounting.",
+          "limit": 11,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a universal Arca‑compatible quick release plate for stable field tripod mounting.\", \"limit\": 11, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a safe charger for a compact camera battery that prevents overcharge, short circuits, and electronic shock.",
+    "target_item": {
+      "asin": "B01HGF6XTI",
+      "title": "LP EN-EL15 EN EL15a Battery Charger, Compatible with Nikon D500, D600, D610, D750, D800, D800E, D810, D810A, D850, D7000, D7100, D7200, D7500, 1 V1, Z6, Z7 Cameras, Replacement for MH-25 Charger",
+      "brand": "LP",
+      "category": "Electronics",
+      "description": "<b>LP EN-EL15 Battery Charger</b><br><br><b>Safety and Reliable:</b><br>Protection for overcharge, short circuit, electronic shock with CE, RoHS Certifications.<br><b>100% OEM Compatible:</b><br>Meets or exceeds the OEM Nikon EN-EL15, EN-EL15a Battery and MH-25, MH-25a Charger.<br> LP Battery and Charger are tested by manufacturer to match OEM products.<br><b>Smart LED indicator:</b><br> Shows the status of battery. Green for standby, red for charging.<br><b>Portable:</b><br>A good choice for travel or other indoor/outdoor activities.<br> <br> <br> <b>Compatible with:</b><br> Nikon D500<br> Nikon D600<br> Nikon D610<br> Nikon D750<br> Nikon D800<br> Nikon D800e<br> Nikon D810<br> Nikon D810a<br> Nikon D850<br> Nikon D7000<br> Nikon D7100<br> Nikon D7200<br> Nikon D7500<br> Nikon 1 v1<br>Nikon Z6<br>Nikon Z7<br> <br> <br> <b>Warm Tips:</b><br><b> If you are not sure about battery or battery charger compatibility, please contact us for more information.<br>If you received a wrong item mistakenly delivered by Amazon, please contact us ASAP.</b><br><br><b>Guarantee & Services: </b><br>30 Days Free Refund & 1 Year Free Replacement. <br>Lifetime Service & 24H Promptly and Friendly Response (Weekdays). <br>Any question or advice please contact us on Amazon or e-mail us via lpdirect@163.com.<br><br><b>Package Contents: </b><br>1 * LP EN-EL15 Battery Charger"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a safe charger for a compact camera battery that prevents overcharge, short circuits, and electronic shock.",
+          "limit": 11,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a safe charger for a compact camera battery that prevents overcharge, short circuits, and electronic shock.\", \"limit\": 11, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a UPS that offers 10‑hour backup during outages to protect data and equipment.",
+    "target_item": {
+      "asin": "B005GZRUZW",
+      "title": "APC UPS Battery Backup &amp; Surge Protector, 650VA, APC Back-UPS (BE650G1)",
+      "brand": "APC",
+      "category": "Electronics",
+      "description": "Provides Battery Backup Power that allows yu to work through power outages and protects your data and equipment. Connect the Back-UPS to AC power and allow the battery to recharge for ten hours"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a UPS that offers 10‑hour backup during outages to protect data and equipment.",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a UPS that offers 10‑hour backup during outages to protect data and equipment.\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a Wi‑Fi outdoor camera with HD 1080p, two‑way audio, night vision, motion detection, and an SD card slot.",
+    "target_item": {
+      "asin": "B00M5OV5GC",
+      "title": "Microseven 1080P HD WiFi Outdoor Camera, Alexa, Two-Way Audio Wide Angle,128GB SD Card Slot, Motion Detection, Night Vision Bullet IP Camera, Free 24hr Cloud Storage, Waterproof Security Camera, ONVIF",
+      "brand": "Microseven",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a Wi‑Fi outdoor camera with HD 1080p, two‑way audio, night vision, motion detection, and an SD card slot.",
+          "limit": 11,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a Wi‑Fi outdoor camera with HD 1080p, two‑way audio, night vision, motion detection, and an SD card slot.\", \"limit\": 11, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a 10‑foot twisted‑pair speaker interconnect cable for car audio system upgrade",
+    "target_item": {
+      "asin": "B001AO2T18",
+      "title": "Rockford Fosgate RFI-10 Twisted Pair Signal Cable -10 feet",
+      "brand": "Rockford Fosgate",
+      "category": "Electronics",
+      "description": "Rockford Fosgate Twisted Pair 10' Interconnect, Visit www.RockfordFosgate.com 24 hours a day for technical support or call (800)669-9899 M-F 7 am to 5 pm MST."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a 10‑foot twisted‑pair speaker interconnect cable for car audio system upgrade",
+          "limit": 10,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a 10‑foot twisted‑pair speaker interconnect cable for car audio system upgrade\", \"limit\": 10, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Find charger that can safely recharge five NiMH batteries and two smartphones at once",
+    "target_item": {
+      "asin": "B00BF0RQII",
+      "title": "Digital Treasures ChargeIt Battery Station Pro Battery Charger (DRDT-08767)",
+      "brand": "Digital Treasures",
+      "category": "Electronics",
+      "description": "Safely charge up to five batteries while simultaneously charging two mobile devices such as smartphones and tablets. Recharges NiMH, NiCd, and RAM battery types"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Find charger that can safely recharge five NiMH batteries and two smartphones at once",
+          "limit": 11,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Find charger that can safely recharge five NiMH batteries and two smartphones at once\", \"limit\": 11, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a 3-foot adjustable tip antenna for high quality radio communications.",
+    "target_item": {
+      "asin": "B005AUJXLM",
+      "title": "FireStik FL3-B Three Foot FireFly Antenna With Tuneable Tip (Black)",
+      "brand": "FireStik",
+      "category": "Electronics",
+      "description": "FL3-B Three Foot FireFly Antenna With Tuneable Tip (Black)"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a 3-foot adjustable tip antenna for high quality radio communications.",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a 3-foot adjustable tip antenna for high quality radio communications.\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a compact metal Gigabit switch with five Ethernet ports to expand office network bandwidth.",
+    "target_item": {
+      "asin": "B0000BVYT3",
+      "title": "NETGEAR 5-Port Gigabit Ethernet Unmanaged Switch, Sturdy Metal, Desktop, Plug-and-Play, ProSAFE Lifetime Protection (GS105NA)",
+      "brand": "NETGEAR",
+      "category": "Electronics",
+      "description": "Netgear Giga Switch 5Pt Metal <style type=\"text/css\"> .caption { font-family: Verdana, Helvetica neue, Arial, serif; font-size: 10px; font-weight: bold; font-style: italic; } ul.indent { list-style: inside disc; text-indent: 20px; } table.callout { font-family: Verdana, Helvetica, Arial, serif; margin: 10px; width: 250; } td.callout { height: 100 percent; background: #9DC4D8 url(https://images-na.ssl-images-amazon.com/images/G/01/electronics/detail-page/callout-bg.png) repeat-x; border-left: 1px solid #999999; border-right: 1px solid #999999; padding: 10px; width: 250px; } ul.callout { list-style: inside disc; text-indent: -12px; font-size: 12px; line-height: 1.5em; } h5.callout { text-align: center; } </style>  <b>Simple Setup and Stellar Performance</b><br /> Plug in your Ethernet cables and connect a power cord, and you're ready to go. There is no software to install or settings to configure. The switch features auto-sensing ports which automatically obtains the fastest possible connection. There are no toggle switches or special crossover cables. The switch will honor priority tags at both the Layer 2 and Layer 3 level if you have your network set to support jumbo frames. Every port supports up to 2000 Mbps in dedicated bandwidth. Automatic flow control ensures smooth traffic. There is a queue buffer memory of 12 kbytes per port and a MAC address database size of 4,000. The switch has status LEDs for power, and link, speed, and activity for each port. The NETGEAR GS105 ProSafe 5-Port Gigabit Ethernet Desktop Switch has a Mean Time Between Failure of 91,500 hours and is backed by a lifetime warranty. The power adapter is backed by a 2-year warranty. <b>What's in the Box</b><br /> GS105 Desktop Switch, wall-mount kit, power adapter, installation guide, warranty/support information card. <br clear=\"all\" />"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a compact metal Gigabit switch with five Ethernet ports to expand office network bandwidth.",
+          "limit": 11,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a compact metal Gigabit switch with five Ethernet ports to expand office network bandwidth.\", \"limit\": 11, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "HDMI cable for 4K 60Hz, 100-foot length, left-angle connector for wall mount",
+    "target_item": {
+      "asin": "B00BEJ83MI",
+      "title": "Twisted Veins HDMI Cable 3 ft, Premium HDMI Cord Type High Speed with Ethernet, Supports HDMI 2.0b 4K 60hz HDR on All Tested Devices Except Apple TV 4K Where it Only Supports 4K 30hz",
+      "brand": "Twisted Veins",
+      "category": "Electronics",
+      "description": "Twisted Veins cables are guaranteed to work with most devices with an HDMI input/output and to carry all signals up to and including 4K 60hz.<br><br> Twisted Veins offers a variety of HDMI cable sizes from short (1.5) to extra long (100), as well as right angle and left angle (90 degrees and 270 degrees) elbow adapters. These can all be found at Amazon by searching for \"HDMI Twisted Veins\".<br><br> Twisted Veins cables come with a lifetime guaranty. If your cable ever fails or you are unsatisfied for any other reason, Twisted Veins will provide a full refund and/or a replacement cable. Just contact your authorized Amazon seller.<br><br> Doesnt Your TV deserve TV - Twisted Veins"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "HDMI cable for 4K 60Hz, 100-foot length, left-angle connector for wall mount",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"HDMI cable for 4K 60Hz, 100-foot length, left-angle connector for wall mount\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a multi‑port USB cable that works with USB‑C, Micro‑USB, and Mini‑USB devices",
+    "target_item": {
+      "asin": "B01DK13VZ6",
+      "title": "CHAFON Multi USB Cable with Type C,Micro,Mini USB Ports for Charging- Black",
+      "brand": "CHAFON",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a multi‑port USB cable that works with USB‑C, Micro‑USB, and Mini‑USB devices",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a multi‑port USB cable that works with USB‑C, Micro‑USB, and Mini‑USB devices\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for long battery life Bluetooth over‑ear headphones with active noise cancellation for travel and office use",
+    "target_item": {
+      "asin": "B019U00D7K",
+      "title": "COWIN E7 Active Noise Cancelling Headphones Bluetooth Headphones with Mic Deep Bass Wireless Headphones Over Ear, Comfortable Protein Earpads, 30H Playtime for Travel Work TV PC Cellphone - Black",
+      "brand": "COWIN",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for long battery life Bluetooth over‑ear headphones with active noise cancellation for travel and office use",
+          "limit": 9,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for long battery life Bluetooth over‑ear headphones with active noise cancellation for travel and office use\", \"limit\": 9, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a 2.4GHz wireless ergonomic vertical mouse with adjustable DPI and multiple buttons for office tasks",
+    "target_item": {
+      "asin": "B00BIFNTMC",
+      "title": "Anker 2.4G Wireless Vertical Ergonomic Optical Mouse, 800 / 1200 /1600DPI, 5 Buttons - Black",
+      "brand": "Anker",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a 2.4GHz wireless ergonomic vertical mouse with adjustable DPI and multiple buttons for office tasks",
+          "limit": 12,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a 2.4GHz wireless ergonomic vertical mouse with adjustable DPI and multiple buttons for office tasks\", \"limit\": 12, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a low profile, high capacity backpack with enough space for mirrorless camera gear, a tablet, and laptop.",
+    "target_item": {
+      "asin": "B00UH41VKC",
+      "title": "Think Tank Photo Urban Approach 15 Backpack for Mirrorless Camera Systems (Black)",
+      "brand": "Think Tank",
+      "category": "Electronics",
+      "description": "Low profile, high capacity backpack specifically for your mirrorless camera gear, 10 tablet and 15 laptop"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a low profile, high capacity backpack with enough space for mirrorless camera gear, a tablet, and laptop.",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a low profile, high capacity backpack with enough space for mirrorless camera gear, a tablet, and laptop.\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a fast, large capacity memory card for phone and action camera to store videos.",
+    "target_item": {
+      "asin": "B00Y095HY6",
+      "title": "PNY High Performance 16GB High Speed MicroSDHC Class 10 UHS-I, U1 up to 60MB/sec Flash Memory Card (P-SDU16GU160G-GE)",
+      "brand": "PNY",
+      "category": "Electronics",
+      "description": "The PNY High Performance 16GB High Speed micro SDHC Class 10 UHS-1 Flash Card is perfect for the latest smartphones, tablets, and action cameras. It features 16GB of storage, giving you more room on your mobile device so you can easily enjoy more mobile content such as apps, eBooks, web video, music and movies. Or, easily take more photos or video with your action camera. The High Speed Micro SD card is rated Class 10, which guarantees fast transfer speeds so you can quickly transfer and share your content while you're on the go."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a fast, large capacity memory card for phone and action camera to store videos.",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a fast, large capacity memory card for phone and action camera to store videos.\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a low‑power 20‑inch monitor with 1600x900 resolution and 5 ms response for office tasks.",
+    "target_item": {
+      "asin": "B00C8T5KOW",
+      "title": "AOC e2050Swd 20-Inch Class Screen LED-Lit Computer Monitor, 1600 x 900 Resolution, 5ms, 20M:1DCR, VGA/DVI, VESA",
+      "brand": "AOC",
+      "category": "Electronics",
+      "description": "AOC e2050Swd 19. 5\" Hd 1600x900 monitor, 5ms, DVI-D/VGA, VESA compatible, low power mode, EPEAT silver, energy start or"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a low‑power 20‑inch monitor with 1600x900 resolution and 5 ms response for office tasks.",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a low‑power 20‑inch monitor with 1600x900 resolution and 5 ms response for office tasks.\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a mount for a smart security camera that plugs into an outlet and swivels 360° on a wall.",
+    "target_item": {
+      "asin": "B01G9MNH6Q",
+      "title": "Nest Cam AC Outlet Mount; Wall Mount with 360 Degree Swivel for Nest Cam and Dropcam PRO by Wasserstein (Black)",
+      "brand": "Wasserstein",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a mount for a smart security camera that plugs into an outlet and swivels 360° on a wall.",
+          "limit": 12,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a mount for a smart security camera that plugs into an outlet and swivels 360° on a wall.\", \"limit\": 12, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "Retrieve documents with similar meaning to a sentence using sbert semantic vector search.",
+    "target_item": {
+      "asin": "B018EC8Z8Y",
+      "title": "Kastar Battery (3-Pack) and Charger Kit for Olympus LI-50B, LI-50C, Pentax D-LI92, Panasonic VW-VBX090 and Olympus Stylus,Tough Series, Pentax Optio Series, Panasonic HX-WA03 WA2 WA20 WA3 WA301 Camera",
+      "brand": "Kastar",
+      "category": "Electronics",
+      "description": "<b> Package Includes:"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Retrieve documents with similar meaning to a sentence using sbert semantic vector search.",
+          "limit": 10,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Retrieve documents with similar meaning to a sentence using sbert semantic vector search.\", \"limit\": 10, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a high‑speed, gold‑plated HDMI female‑to‑female adapter to connect two 4K devices.",
+    "target_item": {
+      "asin": "B00XMMFMS8",
+      "title": "VCE 3 Pack HDMI Female To Female Coupler Gold Plated High Speed HDMI Female Adaptor",
+      "brand": "VCE",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a high‑speed, gold‑plated HDMI female‑to‑female adapter to connect two 4K devices.",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a high‑speed, gold‑plated HDMI female‑to‑female adapter to connect two 4K devices.\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a knit hat that plays music wirelessly and has a built-in mic for calls.",
+    "target_item": {
+      "asin": "B0163N2T38",
+      "title": "SoundBot&uml; SB210 HD Stereo Bluetooth 4.1 Wireless Smart Beanie Headset Musical Knit Headphone Speaker Hat Speakerphone Cap,Built-in Mic (BLK)",
+      "brand": "Soundbot",
+      "category": "Electronics",
+      "description": "Soundbot SB210 HD Stereo Bluetooth 4.1 Wireless Smart Beanie Headset Musical Knit Headphone Speaker Hat Speakerphone Cap,built-in Mic (BLK)"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a knit hat that plays music wirelessly and has a built-in mic for calls.",
+          "limit": 11,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a knit hat that plays music wirelessly and has a built-in mic for calls.\", \"limit\": 11, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a 92mm CPU cooler that supports LGA 1156, LGA 1155, and AM3+ sockets.",
+    "target_item": {
+      "asin": "B003INFE16",
+      "title": "Cooler Master Vortex Plus - CPU Cooler with Aluminum Fins and 4 Direct Contact Heat Pipes (RR-VTPS-28PK-R1)",
+      "brand": "Cooler Master",
+      "category": "Electronics",
+      "description": "Cooler Master Vortex Plus RR-VTPS-28PK-R1 92mm CPU Fan For Intel LGA 1366/1156/1155/1150/775 & AMD Socket FM2+/FM2/FM1/AM3+/AM3/AM2/940/939/754"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a 92mm CPU cooler that supports LGA 1156, LGA 1155, and AM3+ sockets.",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a 92mm CPU cooler that supports LGA 1156, LGA 1155, and AM3+ sockets.\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a wall power strip with four individual AC outlets and two USB charging ports for home office",
+    "target_item": {
+      "asin": "B01GKQU66U",
+      "title": "Nekteck Power Strip/Surge Protector Flat Wall Plug with 4 AC Outlets (Individually Controlled) 20W 2-Port USB Charger for iPhone, Samsung Galaxys, Nexus, Tablets, LG and More [9.3ft Cord,4AC, 2 USB]",
+      "brand": "Nekteck",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a wall power strip with four individual AC outlets and two USB charging ports for home office",
+          "limit": 8,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a wall power strip with four individual AC outlets and two USB charging ports for home office\", \"limit\": 8, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a protective case for a 9.7‑inch tablet released in 2013 that offers style and extra protection.",
+    "target_item": {
+      "asin": "B01HCGZQQC",
+      "title": "MoKo Case Fit iPad Air - Slim Lightweight Smart Shell Stand Cover with Translucent Frosted Back Protector for iPad Air 9.7 Inch Tablet, New York City (with Auto Wake/Sleep, Not fit iPad Air 2)",
+      "brand": "MoKo",
+      "category": "Electronics",
+      "description": "<b>Compatibility:</b></br> <br>Custom designed for your precious <b>Apple iPad Air 9.7 Inch 2013 Released Tablet</b>, this MoKo case features a combination of functionality and style <b>(Will not fit for iPad Air 2 9.7 Inch 2014 Released Tablet)</b>. <br>Well built to protect your <b>Apple iPad Air 9.7 Inch 2013 Released Tablet</b> for the years to come.</br></br> <b>Product Description:</b></br> <br>Automatically wakes or puts <b>Apple iPad Air 9.7 Inch 2013 Released Tablet</b> to sleep when the lid is opened and closed. Access to all features and controls. <br>Ultra lightweight slim hardback adds minimal bulk while protecting your precious device. <br>High Quality, Stylish and Durable, Easy to install and remove. <br>Convenient stand position for watching movie or typing.</br></br> <b>About us:</b></br> <br>This product is sold exclusively by BSCstore. Only buy from BSCstore to get genuine MoKo products with Lifetime warranty and superb customer service. <br>MoKo is registered trademark of BSCstore and is exclusively distributed by BSCstore on Amazon. MoKo trademark is protected by US Trademark Law.</br>"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a protective case for a 9.7‑inch tablet released in 2013 that offers style and extra protection.",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a protective case for a 9.7‑inch tablet released in 2013 that offers style and extra protection.\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a 70W charger that works with rugged laptops for field work.",
+    "target_item": {
+      "asin": "B004UBHQWA",
+      "title": "PWR+ CAR Charger 70W Panasonic Toughbook Laptop: UL Listed Cf-29 Cf-30 Cf-18 Cf-19 Mk3 Mk4 19kdrax6b Cf-19r 19rcrag6m 19rdrax1m CF-C2A CF-C2ACAAXLM Toughpad 4K G1 FZ-G1 FZ-G1A M1 FZ-M1 Compatible",
+      "brand": "PWR+",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a 70W charger that works with rugged laptops for field work.",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a 70W charger that works with rugged laptops for field work.\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a durable hard case to protect camera gear during travel",
+    "target_item": {
+      "asin": "B01ALB08CC",
+      "title": "Hermitshell Travel EVA Protective Case Carrying Pouch Cover Bag Compact Sizes for Logitech Mouse M570 Wireless Trackball",
+      "brand": "Hermitshell",
+      "category": "Electronics",
+      "description": "Hermitshell Brand new Hard Carrying Case"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a durable hard case to protect camera gear during travel",
+          "limit": 10,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a durable hard case to protect camera gear during travel\", \"limit\": 10, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a durable, budget‑friendly kitchen gadget that helps keep leftovers fresh and reusable.",
+    "target_item": {
+      "asin": "B01GIL6EU4",
+      "title": "AmazonBasics Portable Photo Studio",
+      "brand": "AmazonBasics",
+      "category": "Electronics",
+      "description": "An Amazon Brand."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a durable, budget‑friendly kitchen gadget that helps keep leftovers fresh and reusable.",
+          "limit": 10,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a durable, budget‑friendly kitchen gadget that helps keep leftovers fresh and reusable.\", \"limit\": 10, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Bluetooth USB adapter low energy for Windows 10, 7, and Raspberry Pi",
+    "target_item": {
+      "asin": "B007Q45EF4",
+      "title": "Kinivo BTD-400 Bluetooth 4.0 Low Energy USB Adapter - For Windows 10/8.1/8 / Windows 7 / Vista, Raspberry Pi, Linux",
+      "brand": "Kinivo",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Bluetooth USB adapter low energy for Windows 10, 7, and Raspberry Pi",
+          "limit": 10,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Bluetooth USB adapter low energy for Windows 10, 7, and Raspberry Pi\", \"limit\": 10, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a surge protector with 600 joules, 3 outlets, USB ports for home office electronics.",
+    "target_item": {
+      "asin": "B00K8ZMT2Y",
+      "title": "CyberPower CSP300WUR1 5 Outlet Surge Wall Tap with 2 USB Charger",
+      "brand": "CyberPower",
+      "category": "Electronics",
+      "description": "The CyberPower Professional Series CSP300WUR1 Surge Suppressor is ideal for Home/Office protection with 600 joules, 3 outlets, 2 USB 2.1 Amp charging ports, and a convenient wall tap design. The surge suppressor is ideal for protecting personal computers, phones/fax/modems, printers, stereos, and other electronics. Its 2.1 Amp USB charging ports are perfect for keeping tablets, smart phones, and other rechargeable electronics ready to use. The CSP300WUR1 features three (3) outlets, wall tap plug, MOV technology to guard the surge suppressor and connected electronics against line abnormalities, and lightning surges, while EMI/RFI filters block unwanted line noise. A Limited-Lifetime Warranty ensures that this surge suppressor has passed our highest quality standards in design, assembly, material or workmanship and further protection is offered by a $50,000 Connected Equipment Guarantee."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a surge protector with 600 joules, 3 outlets, USB ports for home office electronics.",
+          "limit": 11,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a surge protector with 600 joules, 3 outlets, USB ports for home office electronics.\", \"limit\": 11, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a power strip with surge protection and multiple outlets for home office appliances.",
+    "target_item": {
+      "asin": "B005HTQAK8",
+      "title": "Rosewill 6 Outlet Power Strip with Individual Switches and 6-Feet Cord, RPS-200",
+      "brand": "Rosewill",
+      "category": "Electronics",
+      "description": "The Rosewill RPS-200 power strip delivers superior power protection for home / small office appliance and other connected devices.<br /><br />Model<br /> &bull; Brand: Rosewill<br /> &bull; Model: RPS-200<br /><br />Specifications<br /> &bull; Type: Power Strip<br /> &bull; Outlets: 6<br /> &bull; Output Amperage Capacity: 15A<br /> &bull; Input Voltage: 125V<br /> &bull; Output Voltage: 125V<br /> &bull; Maximum Power: 1875W<br /> &bull; Cord Length: 6 Feet<br />"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a power strip with surge protection and multiple outlets for home office appliances.",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a power strip with surge protection and multiple outlets for home office appliances.\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a lightweight 8× scope with 42 mm objective for long-range shooting.",
+    "target_item": {
+      "asin": "B00YLTG7DA",
+      "title": "Athlon Optics , Midas, Binocular, 8 x 42 ED Roof,",
+      "brand": "Athlon Optics",
+      "category": "Electronics",
+      "description": "Specifications POWER 8X OBJECTIVE LENS DIAMETER 42 mm EYE RELIEF 17.2 mm FIELD OF VIEW ANGULAR 8.1 FIELD OF VIEW FEET @1000 Yards 426 ft FIELD OF VIEW METERS @1000 METERS 144 m CLOSE FOCUS 2 m /6.5 ft INTERPUPILLARY DISTANCE 57 mm-74 mm WEIGHT 25 oz"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a lightweight 8× scope with 42 mm objective for long-range shooting.",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a lightweight 8× scope with 42 mm objective for long-range shooting.\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a rack-mounted cable organizer to keep patch panel cables neatly arranged in a 19\" rack",
+    "target_item": {
+      "asin": "B00066HS4O",
+      "title": "StarTech.com 19in Metal Rackmount Cable Management Panel - Rack cable management kit - 1U",
+      "brand": "StarTech",
+      "category": "Electronics",
+      "description": "CABLMANAGER2 Features: -ABS plastic hooks with apart. -Mounts to any standard 19\" rack. -Ideal for organizing network cables near rackmounted patch panels, hubs, etc.. Product Type: -Panel mount. Finish: -Black. Dimensions: -Hook: 2.99'' H. -Hook Apart: 4.13''."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a rack-mounted cable organizer to keep patch panel cables neatly arranged in a 19\" rack",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a rack-mounted cable organizer to keep patch panel cables neatly arranged in a 19\\\" rack\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a camera with wide dynamic range, EF mount, RAW/ProRes capability and an on‑camera touchscreen.",
+    "target_item": {
+      "asin": "B00C89ZVR8",
+      "title": "Blackmagic Design Cinema Camera with EF Mount",
+      "brand": "Blackmagic Design",
+      "category": "Electronics",
+      "description": "Blackmagic Cinema Camera Blackmagic Cinema Cameras feature wide dynamic range for shooting true digital film combined with EF mount optics and high quality RAW and ProRes file recording. The built in touchscreen lets you monitor, change settings, display audio and exposure metering and enter metadata directly on the camera! Shoot Digital Film! Only digital film cameras give you amazing cinematic images The reason the latest and most amazing television commercials, music videos and feature films look so good is because they've been shot with a digital film camera and then color corrected using DaVinci Resolve. Video cameras, even high end broadcast video cameras, always just look like sharper home movies because they're limited to a regular video sensor. Blackmagic Cinema Cameras are true wide dynamic range digital film cameras designed to shoot with cinematic quality. Imagine adding the style and quality of digital film to your latest TV commercial, feature film, music video or even documentary, weddings or corporate videos! Super 35mm Size Sensor If you need higher resolution, global shutter and a more creative depth of field then the Blackmagic Production Camera 4K models feature a large Super 35 size sensor and professional PL or EF lens mounts, so is the perfect choice. You get incredible Ultra HD images with 12 stops of dynamic range for feature film quality shooting. The minimal crop factor lets you shoot with supe"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a camera with wide dynamic range, EF mount, RAW/ProRes capability and an on‑camera touchscreen.",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a camera with wide dynamic range, EF mount, RAW/ProRes capability and an on‑camera touchscreen.\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need to connect multiple USB devices to laptop via USB‑C port, no drivers, portable, 3 ports",
+    "target_item": {
+      "asin": "B018LWTYGO",
+      "title": "Tripp Lite 3-Port USB-C to USB-A Portable Hub with Gigabit Ethernet Port (GbE), RJ45, USB 3.1 Gen 1 Type-C to Type-A, Aluminum (U460-003-3A1G)",
+      "brand": "Tripp Lite",
+      "category": "Electronics",
+      "description": "The U460-003-3A1G Portable USB 3.1 Gen 1 Gigabit Ethernet Adapter's built-in USB-C cable connects to your tablet, laptop or computer to give you three external USB-A ports. Just plug and play with no drivers or external power supply needed. Ideal for a wide range of USB devices, such as flash drives, external hard drives, DVD players, MP3 players and digital cameras. Plus, the U460-003-3A1G's RJ45 port connects your computer to a wired network or the Internet using a UTP cable, such as Tripp Lite's N201-Series Cat6 cables, without requiring the installation of an internal Ethernet card. The bus-powered adapter and hub supports USB 3.1 Gen 1 data transfer rates up to 5 Gbps-ten times faster than USB 2.0-as well as true 10/100/1000 Mbps network speeds. All three USB ports support USB Battery Charging (BC) specification v1.2, which indicates they provide up to 1.5A for fast charging of mobile devices. The compact aluminum case fits easily into your backpack, briefcase or laptop bag to power USB-enabled devices or access the Ethernet wherever you are. The U460-003-3A1G is backward compatible with previous USB generations, so you can continue using older peripherals while getting maximum high-speed performance from new devices. Adapter is IEEE 802.3az (Energy Efficient Ethernet) compliant. Supports IPv4 and IPv6 pack COE (Checksum Offload Engine) to reduce CPU loading, as well as full- and half-duplex operations, Wake-on-LAN, jumbo frames and VLAN tagging."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need to connect multiple USB devices to laptop via USB‑C port, no drivers, portable, 3 ports",
+          "limit": 10,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need to connect multiple USB devices to laptop via USB‑C port, no drivers, portable, 3 ports\", \"limit\": 10, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "Cable modem for HD streaming and online gaming without monthly rental fees.",
+    "target_item": {
+      "asin": "B010Q29YF8",
+      "title": "TP-Link TC-7610 DOCSIS 3.0 (8x4) Cable Modem. Max Download Speeds Up to 343Mbps. Certified for Comcast XFINITY, Spectrum, Cox, and more. Separate Router is Needed for Wi-Fi",
+      "brand": "TP-LINK",
+      "category": "Electronics",
+      "description": "Get the most out of your cable Internet and eliminate monthly rental fees with the TC-7610 modem, certified for XFINITY from Comcast, Time Warner, Cox, Cablevision, and Bright House Networks. Stream video in HD and game online seamlessly with the high-performance modems 343Mbps download speed. DOCSIS 3.0 technology enhances your networks security and creates faster throughput with an innovative channel bonding feature."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Cable modem for HD streaming and online gaming without monthly rental fees.",
+          "limit": 11,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Cable modem for HD streaming and online gaming without monthly rental fees.\", \"limit\": 11, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a reliable, high-performance SSD with long endurance for everyday desktop usage",
+    "target_item": {
+      "asin": "B00U82O92U",
+      "title": "Samsung 850 EVO - 1TB - M.2 SATA III Internal SSD (MZ-N5E1T0BW)",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "description": "The Samsung SSD 850 EVO elevates the everyday computing experience to a higher level of performance and endurance than was ever imagined. Powered by Samsung's unmatched V-NAND technology, no wonder the 850 EVO is the best-selling* SSD for everyday computing. Designed for mainstream desktop PCs and laptops, the 850 EVO comes in a wide range of capacities and form factors. 5 Years/150TBW"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a reliable, high-performance SSD with long endurance for everyday desktop usage",
+          "limit": 9,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a reliable, high-performance SSD with long endurance for everyday desktop usage\", \"limit\": 9, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need 6 packs of heavy duty 3‑prong cords 16 AWG, 1 or 50 ft, for small kitchen appliances.",
+    "target_item": {
+      "asin": "B0153T1J8Y",
+      "title": "Cable Matters 6-Pack 16 AWG Heavy Duty 3 Prong AC Power Extension Cord (Power Extension Cable) in 1 Foot (NEMA 5-15P to NEMA 5-15R) - Available 1FT - 50FT",
+      "brand": "Cable Matters",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need 6 packs of heavy duty 3‑prong cords 16 AWG, 1 or 50 ft, for small kitchen appliances.",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need 6 packs of heavy duty 3‑prong cords 16 AWG, 1 or 50 ft, for small kitchen appliances.\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a Mac-exclusive portable SSD with high capacity and quick transfer speeds for video editing.",
+    "target_item": {
+      "asin": "B00NV9LSGW",
+      "title": "Transcend 256GB Thunderbolt Solid State Drive StoreJet 500 for MAC (TS256GSJM500)",
+      "brand": "Transcend",
+      "category": "Electronics",
+      "description": "Exclusively for your Mac, Transcend's StoreJet for Mac SJM 500 Portable Solid State Drive provides immense storage space and offers superior data transfer speeds."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a Mac-exclusive portable SSD with high capacity and quick transfer speeds for video editing.",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a Mac-exclusive portable SSD with high capacity and quick transfer speeds for video editing.\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Searching for a 2GB SD card with fast speed, durability, and secure storage.",
+    "target_item": {
+      "asin": "B0009RGLSE",
+      "title": "SanDisk 2 GB Class 2 SD Flash Memory Card SDSDB-2048-A11",
+      "brand": "SanDisk",
+      "category": "Electronics",
+      "description": "This 2GB SD memory card is fast, reliable, secure, and built to last by SanDisk, the leading manufacturer of portable device memory. <table align=\"left\" cellpadding=\"30\" width=\"400\"> <tbody><tr><td> <img src=\"https://images-na.ssl-images-amazon.com/images/G/01/electronics/detail-page/B0009RGLSE_pt01.jpg \" align=\"top\" border=\"0\"></td></tr></tbody> </table> <b>SanDisk&reg; Standard SD&trade; 2 GB Memory Card </b> Capture a memory each day&#8212;and get the most from your digital camera&#8212;using a SanDisk Standard memory card. Because memorable moments happen when you least expect them. Make sure you&#8217;re ready with a reliable card made by the pioneers of flash memory. Plus, SanDisk standard cards are built for real life&#8212;to handle its bumps and turns while capturing it in all its brilliance. <table align=\"left\" cellpadding=\"10\" width=\"399\"> <tbody><tr><td> <img src=\"https://images-na.ssl-images-amazon.com/images/G/01/electronics/detail-page/B0009RGLSE_pt02.gif\" align=\"top\" border=\"0\"> <br><br><font color=\"#626262\"><small><b>*1 gigabyte (GB) = 1 billion bytes. Some capacity not available for data storage. **1 megabyte (MB) = 1 million bytes; X = 150 KB/sec; based on internal testing; performance may be lower depending on host device. ***Excludes Germany and other regions which do not recognize limited warranty.</b></small></font></td></tr></tbody> </table> <table align=\"left\" cellpadding=\"30\" width=\"250\"> <tbody><tr><td> <img src=\"https://images-na.ssl-images-amazon.com/images/G/01/electronics/detail-page/B0009RGLSE_pt04.jpg\" align=\"top\" border=\"0\"> </td></tr></tbody> </table> <br clear=\"all\"> <hr noshade> <table align=\"left\" cellpadding=\"0\" width=\"250\"> <tbody><tr><td> <img src=\"https://images-na.ssl-images-amazon.com/images/G/01/electronics/detail-page/B0009RGLSE_pt05.gif\" align=\"top\" border=\"0\"> </td></tr></tbody> </table> <b>Choose SanDisk, the minds behind flash memory</b><br> As the pioneers of flash memory, SanDisk is known all over the planet. Wherever people take pictures, listen to music, use cell phones&#8212;or do much of anything at all with digital devices&#8212;they&#8217;re likely to be using a SanDisk memory card. That&#8217;s because, after 20 years in the business, SanDisk has never stopped innovating."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Searching for a 2GB SD card with fast speed, durability, and secure storage.",
+          "limit": 8,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Searching for a 2GB SD card with fast speed, durability, and secure storage.\", \"limit\": 8, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a wireless home camera with pan‑tilt, two‑way audio, and easy setup to monitor kids and pets.",
+    "target_item": {
+      "asin": "B016I3T3CI",
+      "title": "Zmodo Pan and Tilt Wireless Two-Way Audio Camera Smart HD WiFi IP Camera with Night Vision",
+      "brand": "Zmodo",
+      "category": "Electronics",
+      "description": "<b>Overview</b><br>This Pan Tilt wireless home security camera can meet all your needs to check on your home, kids, pets or business anywhere anytime.It is very easy tp setup via SmartLink.Two-way audio makes kids, pets and you always be together! <b>Features</b><br> * <b>Easy Smartlink Wireless Setup</b><br> New Smartlink wireless setup technology allows you to setup your camera easily in seconds. There's no configuration necessary, just run the setup and the camera will communicte with the phone automatically.<br> * <b>Pan & Tilt Functionality</b><br> Remote pan & tilt control lets you watch your entire home and keep track of your loved ones wherever they go. With sharp, responsive pan & tilt movement and 4x digital zoom, you can quickly scan a wide area and zoom in to see more details.<br> * <b>Two-way Audio</b><br> Hear what's going on in your home and talk directly with your family and pets.<br>  <b> Camera SPEC</b><br> *Image Sensor: 720P Color CMOS<br> *Rotation View:Horizonal:350 Vertical: Up 65 down 20<br> *Lens: 2.8 mm<br> *Night Vision: up to 30ft<br> <b>Package Includes</b>"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a wireless home camera with pan‑tilt, two‑way audio, and easy setup to monitor kids and pets.",
+          "limit": 9,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a wireless home camera with pan‑tilt, two‑way audio, and easy setup to monitor kids and pets.\", \"limit\": 9, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a durable, shatter‑proof transparent screen replacement for smartphones or tablets",
+    "target_item": {
+      "asin": "B007WGD3H2",
+      "title": "For Apple Intel iMac 27&quot; Front Glass Replacement 922-9833",
+      "brand": "VIVO",
+      "category": "Electronics",
+      "description": "This is not a traditional glass screen. It is a transparent thermoplastic glass used as a shatter-resistant alternative to glass. This exactly how the item comes from the manufacturer."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a durable, shatter‑proof transparent screen replacement for smartphones or tablets",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a durable, shatter‑proof transparent screen replacement for smartphones or tablets\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a 1.35V low‑voltage DDR3L memory kit compatible with gaming ultrabooks and small form factor PCs",
+    "target_item": {
+      "asin": "B00KQCOV5C",
+      "title": "Kingston Technology HyperX Impact 16GB (2 x 8G) 204-Pin DDR3 SO-DIMM DDR3L 1600 MHz (PC3L 12800) Laptop Memory Model HX316LS9IBK2/16",
+      "brand": "HyperX",
+      "category": "Electronics",
+      "description": "16GB 1600MHz DDR3L CL9 Kit 2.High-performance memory for gaming notebooks, small form factor PCs and Steam Box systems.Low voltage setting at 1.35V for cooler and quieter computing.Slim and sleek new look compatible with ultra-thin notebooks.Easy to install - automatic overclocking; plug-and-play functionality means no adjustments in BIOS needed.Reliable - 100-percent factory tested.Guaranteed - lifetime warranty, free technical support"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a 1.35V low‑voltage DDR3L memory kit compatible with gaming ultrabooks and small form factor PCs",
+          "limit": 12,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a 1.35V low‑voltage DDR3L memory kit compatible with gaming ultrabooks and small form factor PCs\", \"limit\": 12, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a 2GB VRAM GPU for smooth 1080p gaming and moderate system upgrades.",
+    "target_item": {
+      "asin": "B00S9SGMZM",
+      "title": "ASUS STRIX GeForce GTX 960 Overclocked 2 GB DDR5 128-bit DisplayPort HDMI 2.0 DVI-I Graphics Card",
+      "brand": "Asus",
+      "category": "Electronics",
+      "description": "Asus STRIX-GTX960-DC2OC-2GD5"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a 2GB VRAM GPU for smooth 1080p gaming and moderate system upgrades.",
+          "limit": 12,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a 2GB VRAM GPU for smooth 1080p gaming and moderate system upgrades.\", \"limit\": 12, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a 6ft USB 3.0 extension cable for controllers and external storage connected to a gaming console.",
+    "target_item": {
+      "asin": "B0135HDNMG",
+      "title": "USB Extender, Canjoy 3 Pack 6Ft USB 3.0 Extension Cable Nylon Braided A Male to A Female Data Transfer Repeater Cable for Playstion,Oculus VR,Xbox,USB Flash Drive,Card Reader,Hard Drive,Printer - Blue",
+      "brand": "Canjoy",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a 6ft USB 3.0 extension cable for controllers and external storage connected to a gaming console.",
+          "limit": 10,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a 6ft USB 3.0 extension cable for controllers and external storage connected to a gaming console.\", \"limit\": 10, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a stable, adjustable phone holder that clamps securely to any car dashboard or console.",
+    "target_item": {
+      "asin": "B01GNOEZB6",
+      "title": "Car Mount, Anker CD Slot Universal Phone Holder for iPhone X/8/8 Plus/7/7 plus/6s/6/6s Plus/6 Plus, S8/S7/S6/edge, LG G5, Nexus 5X/6/6P, Pixel 2 and Other Smartphones (Black)",
+      "brand": "Anker",
+      "category": "Electronics",
+      "description": "CD Slot Car Mount<br> The Highly-Adjustable Car Phone Holder<br><br> From ANKER, the Choice of 20 Million+ Happy Users<br>  Industry-Leading Technology<br>  Worry-Free Warranty<br>  99% Positive Amazon Feedback<br><br> Sturdy & Secure<br> The firm-fit rubber-coated clamp ensures that the car mount stays firmly fixed in your car's CD slot. A secure spring-loaded cradle with silicone-padded grips keeps your phone in-place. Enjoy safe hands-free phone access on the road.<br><br> Infinite Viewing Angles<br> A highly-flexible ball joint allows you to easily adjust the car mount to any angle.<br><br> Universal Compatibility<br> Built with a variable-width rubber-coated clamp to give a perfect fit with almost any car CD slot. Mount your phone securely without worrying about losing grip.<br><br> Hassle-Free Installation<br> Tool-free installation makes setup foolproof. Set up the mount, attach your phone and drive off in under 60 seconds.<br><br> Worry-Free Warranty<br> At Anker, we believe in our products. That's why we back them all with an 18-month warranty and provide friendly, easy-to-reach support.<br><br> Note:<br> It is advised not to leave installed for prolonged periods in high temperatures as this may result in damage to the mount or CD slot.<br> Ensure the lever is raised (in the \"unlock\" position) to protect against damage while ejecting.<br> Not compatible with Mazda CD players."
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a stable, adjustable phone holder that clamps securely to any car dashboard or console.",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a stable, adjustable phone holder that clamps securely to any car dashboard or console.\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Looking for a high-performance, durable SSD for daily computing tasks in a desktop setup.",
+    "target_item": {
+      "asin": "B00OAJ412U",
+      "title": "Samsung 850 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-75E250B/AM)",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "description": "Unlock Your Computer's Potential: Samsung's 850 EVO series SSD is the industry's #1 best-selling SSD and is perfect for everyday computing. Powered by Samsung's V-NAND technology, the 850 EVO transforms the everyday computing experience with optimized performance and endurance. Designed to fit desktop PCs, laptops, and ultrabooks, the 850 EVO comes in a wide range of capacities and form factors. Uncompromised Performance: The 850 EVO optimizes performance for your daily computing tasks, boasting sequential write speeds up to 520 MB/s with TurboWrite technology and sequential read speeds up to 540 MB/s. Plus, RAPID mode to further boost performance for up to 2x faster data processing speeds by utilizing unused PC memory as cache storage. 5 Years/75TBW"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Looking for a high-performance, durable SSD for daily computing tasks in a desktop setup.",
+          "limit": 10,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Looking for a high-performance, durable SSD for daily computing tasks in a desktop setup.\", \"limit\": 10, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a cost‑effective SSD to speed up boot and application launch on an older computer.",
+    "target_item": {
+      "asin": "B00OBRFFAS",
+      "title": "Samsung 850 EVO 1TB 2.5-Inch SATA III Internal SSD (MZ-75E1T0B/AM)",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "description": "Upgrading your PC with a Samsung SSD is the most economical way to breathe new life into an aging PC. The 850 EVO reads, writes and multi-tasks at incredible speeds, enhancing boot-up speed, application loading and multi-tasking performance. It's more than an upgrade, it's a complete transformation of your PC. 5 Years/150TBW"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a cost‑effective SSD to speed up boot and application launch on an older computer.",
+          "limit": 10,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a cost‑effective SSD to speed up boot and application launch on an older computer.\", \"limit\": 10, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need versatile 40‑pin ribbon jumper cables for Arduino breadboard projects with multi‑color connectors.",
+    "target_item": {
+      "asin": "B01EV70C78",
+      "title": "Elegoo EL-CP-004 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino",
+      "brand": "ELEGOO",
+      "category": "Electronics",
+      "description": ""
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need versatile 40‑pin ribbon jumper cables for Arduino breadboard projects with multi‑color connectors.",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need versatile 40‑pin ribbon jumper cables for Arduino breadboard projects with multi‑color connectors.\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Need a non-slip neoprene strap for compact mirrorless cameras that attaches with sturdy loops.",
+    "target_item": {
+      "asin": "B00IMU48AS",
+      "title": "OP/TECH USA Mirrorless Strap - Camera Strap with Quick Disconnects for Lightweight Mirrorless Cameras (Black)",
+      "brand": "OP/TECH USA",
+      "category": "Electronics",
+      "description": "The <b>Mirrorless Strap</b> from OP/TECH USA is designed to accommodate cameras that are larger than a point-and-shoot, but smaller than a full-size SLR. It features a soft and comfortable neoprene pad backed with a non-skid surface. It attaches to a camera with two strong Mini QD Loop connectors and is fully adjustable to fit photographers of all sizes and shapes. The <b>Mirrorless Strap</b> is also compatible with many other System Connectors so it can be used with other cameras or binoculars. Discover a new level of comfort today!"
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Need a non-slip neoprene strap for compact mirrorless cameras that attaches with sturdy loops.",
+          "limit": 12,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Need a non-slip neoprene strap for compact mirrorless cameras that attaches with sturdy loops.\", \"limit\": 12, \"threshold\": 0.1})"
+      }
+    ]
+  }
+]

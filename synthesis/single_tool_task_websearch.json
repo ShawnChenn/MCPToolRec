@@ -1,0 +1,1052 @@
+[
+  {
+    "user_query": "Can you tell me the price of the Digital Treasures ChargeIt Battery Station Pro Battery Charger (DRDT-08767)?",
+    "target_item": {
+      "asin": "B00BF0RQII",
+      "title": "Digital Treasures ChargeIt Battery Station Pro Battery Charger (DRDT-08767)",
+      "brand": "Digital Treasures",
+      "category": "Electronics",
+      "description": "Safely charge up to five batteries while simultaneously charging two mobile devices such as smartphones and tablets. Recharges NiMH, NiCd, and RAM battery types",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 15
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 15})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the price of the FireStik FL3-B Three Foot FireFly Antenna With Tuneable Tip (Black)?",
+    "target_item": {
+      "asin": "B005AUJXLM",
+      "title": "FireStik FL3-B Three Foot FireFly Antenna With Tuneable Tip (Black)",
+      "brand": "FireStik",
+      "category": "Electronics",
+      "description": "FL3-B Three Foot FireFly Antenna With Tuneable Tip (Black)",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 20
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 20})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Zmodo Pan and Tilt Wireless Two-Way Audio Camera Smart HD WiFi IP Camera with Night Vision cost?",
+    "target_item": {
+      "asin": "B016I3T3CI",
+      "title": "Zmodo Pan and Tilt Wireless Two-Way Audio Camera Smart HD WiFi IP Camera with Night Vision",
+      "brand": "Zmodo",
+      "category": "Electronics",
+      "description": "<b>Overview</b><br>This Pan Tilt wireless home security camera can meet all your needs to check on your home, kids, pets or business anywhere anytime.It is very easy tp setup via SmartLink.Two-way audio makes kids, pets and you always be together! <b>Features</b><br> * <b>Easy Smartlink Wireless Setup</b><br> New Smartlink wireless setup technology allows you to setup your camera easily in seconds. There's no configuration necessary, just run the setup and the camera will communicte with the phone automatically.<br> * <b>Pan & Tilt Functionality</b><br> Remote pan & tilt control lets you watch your entire home and keep track of your loved ones wherever they go. With sharp, responsive pan & tilt movement and 4x digital zoom, you can quickly scan a wide area and zoom in to see more details.<br> * <b>Two-way Audio</b><br> Hear what's going on in your home and talk directly with your family and pets.<br>  <b> Camera SPEC</b><br> *Image Sensor: 720P Color CMOS<br> *Rotation View:Horizonal:350 Vertical: Up 65 down 20<br> *Lens: 2.8 mm<br> *Night Vision: up to 30ft<br> <b>Package Includes</b>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 23
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 23})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the VIVO Apple Intel iMac 27” Front Glass Replacement 922-9833 cost?",
+    "target_item": {
+      "asin": "B007WGD3H2",
+      "title": "For Apple Intel iMac 27&quot; Front Glass Replacement 922-9833",
+      "brand": "VIVO",
+      "category": "Electronics",
+      "description": "This is not a traditional glass screen. It is a transparent thermoplastic glass used as a shatter-resistant alternative to glass. This exactly how the item comes from the manufacturer.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 20
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 20})"
+      }
+    ]
+  },
+  {
+    "user_query": "Can you tell me the price of the Asus Strix GeForce GTX 960 Overclocked 2GB DDR5 128-bit graphics card? Also any similar GTX cards?",
+    "target_item": {
+      "asin": "B00S9SGMZM",
+      "title": "ASUS STRIX GeForce GTX 960 Overclocked 2 GB DDR5 128-bit DisplayPort HDMI 2.0 DVI-I Graphics Card",
+      "brand": "Asus",
+      "category": "Electronics",
+      "description": "Asus STRIX-GTX960-DC2OC-2GD5",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 20
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 20})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Anker CD Slot Universal Phone Holder cost in black?",
+    "target_item": {
+      "asin": "B01GNOEZB6",
+      "title": "Car Mount, Anker CD Slot Universal Phone Holder for iPhone X/8/8 Plus/7/7 plus/6s/6/6s Plus/6 Plus, S8/S7/S6/edge, LG G5, Nexus 5X/6/6P, Pixel 2 and Other Smartphones (Black)",
+      "brand": "Anker",
+      "category": "Electronics",
+      "description": "CD Slot Car Mount<br> The Highly-Adjustable Car Phone Holder<br><br> From ANKER, the Choice of 20 Million+ Happy Users<br>  Industry-Leading Technology<br>  Worry-Free Warranty<br>  99% Positive Amazon Feedback<br><br> Sturdy & Secure<br> The firm-fit rubber-coated clamp ensures that the car mount stays firmly fixed in your car's CD slot. A secure spring-loaded cradle with silicone-padded grips keeps your phone in-place. Enjoy safe hands-free phone access on the road.<br><br> Infinite Viewing Angles<br> A highly-flexible ball joint allows you to easily adjust the car mount to any angle.<br><br> Universal Compatibility<br> Built with a variable-width rubber-coated clamp to give a perfect fit with almost any car CD slot. Mount your phone securely without worrying about losing grip.<br><br> Hassle-Free Installation<br> Tool-free installation makes setup foolproof. Set up the mount, attach your phone and drive off in under 60 seconds.<br><br> Worry-Free Warranty<br> At Anker, we believe in our products. That's why we back them all with an 18-month warranty and provide friendly, easy-to-reach support.<br><br> Note:<br> It is advised not to leave installed for prolonged periods in high temperatures as this may result in damage to the mount or CD slot.<br> Ensure the lever is raised (in the \"unlock\" position) to protect against damage while ejecting.<br> Not compatible with Mazda CD players.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 19
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 19})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the JBL Charge 2+ Splashproof Portable Bluetooth Speaker in black (certified refurbished) cost?",
+    "target_item": {
+      "asin": "B019DI8I94",
+      "title": "JBL Charge 2+ Splashproof Portable Bluetooth Speaker - Black (Certified Refurbished)",
+      "brand": "JBL",
+      "category": "Electronics",
+      "description": "Wireless Bluetooth Streaming 6000mAH Rechargeable Battery Speakerphone Splashproof Social Mode JBL Bass Radiator Amazon Renewed is your trusted destination for pre-owned and refurbished products that are inspected and tested to work and look like new. A Renewed supplier who is Amazon-qualified and performance managed, performs a full diagnostic test, replaces any defective parts, and thoroughly cleans the product. The products will have minimal to no signs of wear, no visible cosmetic imperfections when held 12 inches away, and may arrive in a brown or white box with relevant accessories that may be generic. <b>This product comes with a minimum 90-day supplier-backed warranty</b><br>An Amazon qualified supplier will provide a replacement or refund within 90 days of your receipt if the product does not work as expected. The warranty is in addition to Amazon's standard return policy. <a href=\"/gp/help/customer/display.html/?nodeId=202089470\">Learn more</a> Shop for smartphones, computers, laptops, tablets, home and kitchen appliances, game consoles, office products, and more on <a href=\"/renewed\">Amazon Renewed</a>.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 19
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 19})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much do the HiCool Bluetooth Headphones M5 Wireless Stereo Earbuds cost?",
+    "target_item": {
+      "asin": "B01H1VEUZQ",
+      "title": "HiCool Bluetooth Headphones, M5 Wireless Bluetooth Earphones Stereo Sports in-Ear Headsets Sweatproof Earbuds",
+      "brand": "HiCool",
+      "category": "Electronics",
+      "description": "<b>HiCool M5 Wireless Bluetooth Headphones-- Make music more listenable.</b><br><br> <b>Excellent Sound Quality</b><br><br> We are striving to offer the best sound quality to our customers. No matter listening to music or making phone calls, M5 headphones ensure you crisp sound as well as clear voice.<br><br> <b>Multipoint Connection</b><br><br> M5 Bluetooth Headphones enable you to connect with 2 phones at the same time.<br><br> First, connect the headphones with phone 1 and then turn the headphones off after pairing successful.<br><br> Next, turn the headphones on again to the pairing mode, and then connect the headphones with phone 2. Turn the headphones off again after pairing.<br><br> At last, turn on the headphones again, and they will connect with phone 1 & 2 automatically.<br><br> <b>Comfortable & Durable</b><br><br> Extremely light and super soft earbuds make you fully enjoy your leisure time and workout. The flex sleeve helps stablize your earbuds, no worries about falling off during the sports.<br><br> <b>Complete Compatibility</b><br><br> Compatible with all the Bluetooth devices, such as cell phones, iPads, tablets, PCs so on and so forth.<br><br> <b>Specification:</b><br><br> Bluetooth Version: V4.1<br><br> Operation Range: Up to 30 feet<br><br> Talk/Playing Time: Up to 4 hours<br><br> Standby Time: Up to 80 hours<br><br> Charging Time: 1.5 hours<br><br> <b>What's in the box:</b><br><br> 1* HiCool M5 Wireless Bluetooth Headset<br><br> 1* micro USB Charge Cable<br><br> 2* Pair Earpieces<br><br> 1* User Manual<br><br> <b>100% Satisfaction Warranty</b><br><br> Please feel free to contact us if you have any other questions. HiCool is always here for you!<br><br> <b>Thank you for choosing HiCool!</b>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 22
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 22})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Fomito RJ45 Network Splitter Adapter Cable cost?",
+    "target_item": {
+      "asin": "B013LRH11E",
+      "title": "RJ45 Network Splitter Adapter Cable,eSten RJ45 1 Male to 2 Female Socket Port LAN Ethernet Network Splitter Y Adapter Cable Compatible Category 5 Ethernet, Category 5e Ethernet, Category 6 Ethernet",
+      "brand": "Fomito",
+      "category": "Electronics",
+      "description": "This RJ45 Ethernet Splitter socket allow 2 computers to share high speed DSL,modem or other Ethernet ports.Transmission is more stable, it has a superior connection and transmission RJ45 Ethernet Splitter allow 2 computers to share high speed DSL, cable modem or other Ethernet ports. This RJ45 Ethernet Splitter is not a switch so that it can not implement 2 computers sharing the internet at the same time.When you often use a laptop in 2 different fixed position, using this RJ45 splitter.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 17
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 17})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Cambond USB Type C Cable 10ft braided charging cable in gold cost?",
+    "target_item": {
+      "asin": "B017IKKA3G",
+      "title": "USB Type C Cable Cambond Braided Charging Cable Cord 10ft for Galaxy Note 8, S8, S8+, MacBook, Nintendo Switch, Google Pixel, Sony XZ, LG V20 G5 G6, HTC 10, Nexus 6p 5x and More Gold",
+      "brand": "Cambond",
+      "category": "Electronics",
+      "description": "<b>Reversible Connector </b> It is perfectly symmetrical top and bottom, meaning that unlike the old USB, the USB-C is reversible and can be plugged in both ways. Plug and unplug easily without checking for the connector orientation. That'll save time for sure. <b>Within Spec for CC Termination</b> 1.Voltage: 5V; 2. Voltage Drop < 0.55V; 3. Pullup Resistor: 56k ohm; 4. Support charge with max 2.4 amp charging capabilities from the 2.4A output USB port on wall chargers or car chargers. <b>Stylish High Quality Nylon Fiber </b> High quality nylon fiber jacket provides higher durability and increased flexibility. The braided covering makes it stand out from bunch of cables and also look much more attractive, especially when not in use. <b>Tangle Free </b> Tangle free cord design eliminates bunching, tangles, and knots. A velcro cable tie is included and allows you to keep your cables neat and tidy. <b>What You Get </b> USB-C to USB 2.0 Cable (10ft), After Sale Warranty Card, our Cambond fan-favorite 12-month warranty and friendly, easy-to-reach customer service. <b>Compatible Devices:</b> Latest style USB Type C to Type A Male can connect Galaxy S8, OnePlus 3T, the new Apple MacBook (12 inch, 2015), Nokia N1 Tablet, the Google ChromeBook Pixel (2015), Asus ZenFone 3, ZenFone 3 Deluxe, ZenFone 3 Ultra, HP Chromebook 13, Nextbit Robin, New Ulefone, OnePlus 2/3, Asus Zen AiO, LG G5, Google Nexus 5X, Nexus 6P, Lumia 950/50XL, Lenovo ZUK Z1, HP Pavilion x2, ASUS Zenpad S 8.0, New Apple TV 4 with App Development and Other Devices with Type C USB for transferring data or charging.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 15
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 15})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Acer Aspire One AOD257-13685 Netbook cost? I'd like to know the current price.",
+    "target_item": {
+      "asin": "B004UR1670",
+      "title": "Acer Aspire One AOD257-13685 10.1-Inch Netbook (1.66GHz Intel Atom N570 Processor, 1GB DDR3, 250GB HDD, Windows 7 Starter) Espresso Black",
+      "brand": "Acer",
+      "category": "Electronics",
+      "description": "Acer AOD257-13685 comes with these high level Specs. Intel Atom Dual-Core Processor N570, Windows 7 Starter, 10.1\" WSVGA LED-backlit Display, Mobile Intel NM10 Express Chipset, Intel Graphics Media Accelerator 3150, 1024MB DDR3 Memory, 250GB SATA Hard Drive (5400RPM), Multi-in-1 Digital Media Card Reader, 802.11b/g/n Wi-Fi CERTIFIED, Built-In 0.3MP Webcam, 3 - USB 2.0 Ports, 3-cell Li-ion Battery (2200 mAh), Up to 4-hours Battery Life, Microsoft Office Starter 2010, 2.65 lbs. | 1.2 kg (system unit only) <div style=\"text-align:center;width:100%;margin:22px 0;height:1px;border-top:1px solid #DDDDDD\"></div> <center><div class=\"transparency-container aplus-content-container\"> <a href=\"/b?node=12691228011\"><h3><img src=\"https://images-na.ssl-images-amazon.com/images/G/01/img16/pc/easychoice/landing/easychoice_landing_header.jpg\" width=\"65%\"/></h3></a></center></div> <div style=\"text-align:center;width:100%;margin:22px 0;height:1px;border-top:1px solid #DDDDDD\"></div>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 24
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 24})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Plantronics PLNAUDIO478 Stereo USB Headset for PC cost?",
+    "target_item": {
+      "asin": "B00UVWUBKQ",
+      "title": "Plantronics PLNAUDIO478 Stereo USB Headset fOR PC",
+      "brand": "Plantronics",
+      "category": "Electronics",
+      "description": "Clear Sound. Skype Certified Foldable design lets you take it on the go without having to sacrifice great audio. Skype Certified, with DSP and noise-canceling mic to deliver crystal clear conversations. 24-bit hi-fi stereo HD sound pumping out of comfy foam ear pads make it a pleasure to stay on the call. <div class=\"aplus\"> Enjoy crisp, clear audio during your Skype calls with the Plantronics Audio 478 USB Stereo Headset. This Skype-certified headset features a noise-canceling microphone that ensures you are always heard loud and clear. Foam ear pads, inline controls, and a foldable design make this headset a convenient and portable VoIP/Internet calling solution. The Plantronics Audio 478 USB Stereo Headset uses a combination of audio-enhancing technologies to promote clear, noise-free conversations. The noise-canceling microphone filters out static without muffling your voice, crisply conveying each word. You will be able to communicate more effectively, without the frustration of cutouts and feedback. In addition, the microphone actively works to tune out background noises, so you will be able to make PC calls in noisy environments. It uses Digital Signal Processing technology to cancel out echoes and boost voice signals, improving clarity. With its 32-millimeter drivers and expert sound engineering, the headset is capable of delivering crisp, high-definition audio. The headphones boast a 48 kHz sampling rate, which ensures faithful reproduction of your computer's audio. Meanwhile, the built-in EQ adjusts low and high frequencies to create a clear, balanced tone that is ideal for conversing. The headphones are also well suited to all your PC needs. Your music will sound rich and full, thanks to the headset's 24-bit audio and inclusive dynamic range. Your gaming experience will improve as well--you will be able to hear in-game audio cues more clearly and communicate with your teammates more effectively. The headset also features an inline control panel, which gives you quick control over your Skype calls. A call button allows you to answer and end calls with a push*, while a microphone button lets you mute yourself just as easily. You can also adjust volume level with two conveniently placed buttons, which increase or decrease your call's volume incrementally. Featuring a convenient folding design, the 478 Stereo Headset can easily be stored in a laptop bag or suitcase. The headphones are covered in soft foam ear pads to ensure comfort during extended talking sessions. Additionally, the headset's 2-meter cord gives you flexibility to move around as you talk. The Plantronics Audio 478 USB Stereo Headset is compatible with any Windows or Mac** computer that has an available USB port. It is backed by a one-year limited warranty. Plantronics Audio 478 USB Stereo Headset",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 25
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 25})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the price of a Western Digital WD40E31X 4TB SSHD?",
+    "target_item": {
+      "asin": "B00YY3UA68",
+      "title": "WD Blue SSHD 4TB  Desktop Hard Disk Drive -  SATA 6 Gb/s 64MB Cache 3.5 Inch  - WD40E31X",
+      "brand": "Western Digital",
+      "category": "Electronics",
+      "description": "WD Blue Solid State Hybrid Drives (SSHD) combine a generous amount of NAND flash SSD technology and massive HDD storage capacity into a single drive. WD engineers team up the best of SSD and HDD to produce a hybrid that can increase overall system performance - resulting in quicker system boots, faster application loads, and improved responsiveness when compared to traditional hard drives.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 16
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 16})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the current price for the Wewdigi 2 HOOK-EZE Twin Packs (Blue/Yellow) in Electronics?",
+    "target_item": {
+      "asin": "B0160NTYG6",
+      "title": "2 HOOK-EZE Twin Packs - (Blue/Yellow)",
+      "brand": "Wewdigi",
+      "category": "Electronics",
+      "description": "Sturdy 30m Waterproof Case Shoot underwater up to 30 meters,ideal for surfing, swimming or water skiing, diving. 2-inch HD Display & 140 Degree Lens Vtin waterproof action camcorder is easily to watch the video and picture with 2-inch screen. Capture the world in a lens with six high quality layers perspective ensuring nothing will be missed out. 11 FREE Items Many kinds of accessories that you can mount it on the bike, the surfboard, helmet, car and anywhere you want, shoot the very moment. High Quality Pictures & Videos ,which is the better version make better quality! Full HD video is up to 1080P@30fps,720p@60fps, 720p@30fps and pictures up to 12M Note: 1. Make sure you get a Class 6 or above Micro SD card with the storage at least 8G and at most 32G; 2. When you use the action cam for the first time, please make it fully charged for long lifespan. Specification: LCD Display: 2.0LTPS Lens: 170 wide angle filed of view Language:English/Deutsch/ Franais/ Espaol/ Italiano/ Portugus/P Storage: Micro SDHC,class 6 or above. Support storage 8G to 32G.(Micro SD card is not included) Battery Working Life:1080p/90min Accessories Included: 1 X waterproof case 1 X Back clip 1 X Hand Bar 1 X Mount 2 1 X Mount 3 1 X Helmet Mounts 1 X Battery 1 X Bandages 1 X USB cable 1 X User Manual",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 23
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 23})"
+      }
+    ]
+  },
+  {
+    "user_query": "What’s the price for the Samsung Bluetooth Headset for Android Smartphones – Retail Packaging – Black?",
+    "target_item": {
+      "asin": "B00ODDNPNO",
+      "title": "Samsung Bluetooth Headset for Android Smartphones - Retail Packaging - Black",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "description": "Keep your tunes close by and ready to go with the wearable Samsung Gear Circle. The unique design of the Gear Circle keeps your music and your calls conveniently around your neck. Use the touch volume controls to crank up the high quality wireless sound and the Gear Manager Mobile App for custom sound adjustment and device management. Intuitive music and call features, a light-weight, sweat-resistant design and exceptional battery life make Gear Circle perfect for the long distance runner or the music enthusiast on the go",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 22
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 22})"
+      }
+    ]
+  },
+  {
+    "user_query": "Could you tell me the price of the AmazonBasics Micro-USB to USB 2.0 Cable – 6 feet (1.8 meters) in electronics?",
+    "target_item": {
+      "asin": "B00C28L6EW",
+      "title": "AmazonBasics Micro-USB to USB 2.0 Cable - 6 Feet (1.8 Meters)",
+      "brand": "AmazonBasics",
+      "category": "Electronics",
+      "description": "An Amazon Brand.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 16
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 16})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the OCZ 2 GB DDR2 PC2‑6400 Platinum Revision 2 Dual Channel cost? If not available, what’s the price for similar 2 GB DDR2 RAM in Electronics?",
+    "target_item": {
+      "asin": "B000KAADHA",
+      "title": "OCZ 2 GB DDR2 PC2-6400 Platinum Revision 2 Dual Channel",
+      "brand": "OCZ",
+      "category": "Electronics",
+      "description": "2GB (2 x 1024MB)---EL DDR2 PC2-6400/800MHz/Enhanced Latency/Platinum Edition/Rev. 2/Dual Channel! 800MHz DDR2 CL 4-4-4-15 (CAS-TRCD-TRP-TRAS) 2GB (2x1024MB) Dual Channel optimized kit Unbuffered Platinum Mirrored XTC Heatspreader 1.9-2.1 Volts 240-Pin DIMM ATI CrossFire certified OCZ Enhanced Latency 2.2V EVP.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 18
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 18})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the CyberpowerPC Gamer Ultra GUA3200A (AMD FX-4300 Quad Core, 8GB RAM, GTX 950) cost in the Electronics category?",
+    "target_item": {
+      "asin": "B012OU7B1O",
+      "title": "CyberpowerPC Gamer Ultra GUA3200A Gaming Desktop - AMD FX-4300 Quad Core 3.8GHz, 8GB DDR3 RAM, 1TB HDD, 24X DVD, NVIDIA GTX 950 2GB, Windows 10 Home",
+      "brand": "CyberpowerPC",
+      "category": "Electronics",
+      "description": "CyberpowerPC Gamer Ultra GUA3200A Desktop <div></div>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 23
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 23})"
+      }
+    ]
+  },
+  {
+    "user_query": "What’s the current price of the Samsung 950 PRO 512GB PCIe NVMe M.2 SSD, model MZ-V5P512BW?",
+    "target_item": {
+      "asin": "B01639694M",
+      "title": "Samsung 950 PRO Series - 512GB PCIe NVMe - M.2 Internal SSD (MZ-V5P512BW)",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "description": "The next-generation Samsung 950 PRO delivers uncompromising power and performance. Equipped with the enhanced bandwidth of the NVMe interface, the 950 PRO is ideal for intensive workloads while remaining extremely energy efficient consuming just 5.7 W at peak workloads. Presented in a compact M.2 form factor, the 950 PRO is ideal for consumer professionals using high-end PCs and workstations. 5 Years/400TBW",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 15
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 15})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the price of the AmazonBasics USB 3.0 Cable A‑Male to B‑Male, 3 feet (0.9 m)?",
+    "target_item": {
+      "asin": "B00I83XD4Q",
+      "title": "AmazonBasics USB 3.0 Cable - A-Male to B-Male - 3 Feet (0.9 Meters)",
+      "brand": "AmazonBasics",
+      "category": "Electronics",
+      "description": "An Amazon Brand.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 18
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 18})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Garmin Nuvi 2539LMT GPS Navigator with spoken directions cost? Also, what are prices for similar Garmin GPS navigators in this category?",
+    "target_item": {
+      "asin": "B00N41UTWG",
+      "title": "Garmin Nuvi 2539LMT GPS Navigator with Spoken Turn-By-Turn Directions, Lifetime Map Updates, Speed Limit Display, Traffic Updates, and Lane Guidance",
+      "brand": "Garmin",
+      "category": "Electronics",
+      "description": "nvi Advanced Series automotive navigators do not rely on cellular signals. nvi is available with your choice of 5, 6 or 7display. All models feature maps of North America with lifetime1 updates and traffic2 alerts. Spoken Garmin Real Directionsguide like a friend using landmarks and traffic lights. Foursquare helps you find new and popular restaurants, shops and more.Direct Access simplifies navigating to select complex destinations, like malls and airports. Up Ahead lets you easily find places,like food and gas stations, without leaving the map. nvi displays current street, speed, speed limit and arrival time. Also givesschool zone alerts. Optional features, available on select nvi models only, include: Bluetooth technology for hands-free calling3,voice-activated navigation, Smartphone Link4 compatibility and HD Digital Traffic, the best traffic avoidance available from Garmin.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 18
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 18})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much do HaMi Bluetooth Noise Cancelling Headsets cost? I'd like the price for the HaMi Noise Cancelling Headset Wireless Stereo Earbuds with Microphone.",
+    "target_item": {
+      "asin": "B01A0DKXHG",
+      "title": "Bluetooth Headphones,HaMi Noise Cancelling Headset Wireless Stereo Earbuds with Microphone Gym Running Sports Sweatproof For Android IOS Devices",
+      "brand": "HaMi",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 20
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 20})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Corsair Flash Voyager GT USB 3.0 32GB USB Flash Drive cost?",
+    "target_item": {
+      "asin": "B00JAEXGU8",
+      "title": "Corsair Flash Voyager GT USB 3.0 32GB USB Flash Drive",
+      "brand": "Corsair",
+      "category": "Electronics",
+      "description": "The Flash Voyager GT USB 3.0 really takes advantage of the performance of USB 3.0, with up to 8x the speed of a typical USB 2.0 flash drive. But even when used on a USB 2.0 port it's one of the fastest drives on the market. The unique all-rubber housing is extremely durable, water resistant and drop-tested for worry-free transport of your valuable data. Just plug it in and it works, with Windows, Mac OS X and even Linux.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 22
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 22})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the price of Philips SHB8750NC/27 Wireless Noise Canceling Headphones in Black?",
+    "target_item": {
+      "asin": "B015CVOEW6",
+      "title": "Philips SHB8750NC/27 Wireless Noise Canceling Headphones, Black",
+      "brand": "Philips",
+      "category": "Electronics",
+      "description": "No wires, no noise and no compromise. Immerse yourself in music with advanced Active Shield active noise canceling technology. Connect wirelessly with NFC one-tap pairing, enjoy music and manage calls with smart control on ear pads.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 15
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 15})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the NETGEAR AC600 Dual Band Wi-Fi USB Mini Adapter (A6100) cost?",
+    "target_item": {
+      "asin": "B00F6EL6O4",
+      "title": "NETGEAR AC600 Dual Band Wi-Fi USB Mini Adapter (A6100)",
+      "brand": "NETGEAR",
+      "category": "Electronics",
+      "description": "The NETGEAR A6100 Wi-Fi USB Mini Adapter with AC600 Dual Band wirelessly connects your notebook or desktop computer to an 11ac network for applications such as lag-free, HD streams throughout your home, online gaming and a secure and reliable connection to the Internet. NETGEAR genie is included for easy installation.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 22
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 22})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the INFILAND Tri-Fold Ultra Slim Stand Frost Back Case cover for the LG G Pad X 8.0 (Green) cost?",
+    "target_item": {
+      "asin": "B01GJTWVZC",
+      "title": "Infiland LG G Pad X 8.0 / G Pad III 8.0 Case, Tri-Fold Ultra Slim Stand Frost Back Case cover for LG G Pad X 8.0 (T-Mobile V521WG) / G Pad III 8.0 V525 8-Inch Tablet, Green",
+      "brand": "INFILAND",
+      "category": "Electronics",
+      "description": "<br> <b>Compatibility:</b> <br> <br> This Infiland case specially designed for LG G Pad X 8.0 (T-Mobile V521WG) / G Pad III 8.0 V525 2016 New Release Only (Not Fit For LG G Pad F 8.0 / G Pad II 8.0 or Other Tablets). <br> <br> <b>Product Description:</b> <br> <br> This Infiland slim shell case made of Premium Synthetic Leather with microfiber cloth and rigid polycarbonate back shell will perfectly protect your LG G Pad X 8.0 /LG G Pad III 8.0 Tablet and looking good for long sessions. The super design allows for full access to touch screen, side buttons, charging, headset and camera ports. Built-in stand with two angles: so you can easily watch movies, play games and online chatting.This Infiland new Case is the perfect choice for those who want a stylish and affordable way to protect their LG G Pad X 8.0 /LG G Pad III 8.0 Tablet. <br> <br> <b>Package included:</b> <br> <br> 1x Shell Case for LG G Pad X 8.0 /LG G Pad III 8.0 Tablet(Tablet is NOT included) <br> <br> <b>Warranty:</b> Product by Infiland can be returned for exchange in 1 year.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 18
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 18})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the OMOTON Macbook Air 11 inch Case Sleeve with Stand cost?",
+    "target_item": {
+      "asin": "B00Y0IT8Z6",
+      "title": "Macbook Air 11 inch Case Sleeve with Stand, OMOTON Wallet Sleeve Case for Macbook Air 11 inch, Ultrathin Carrying Bag with Stand, Brown",
+      "brand": "OMOTON",
+      "category": "Electronics",
+      "description": "OMOTON - - Better than You Expect!<br><br> Ultra-thin Wallet Sleeve Case with Stand for New Macbook 11 inch - Fit New Macbook 11 inch<br><br> Meet your every expectation for a laptop case. <br> -Superior synthetic leather smooth & soft, durable enough to withstand up-to ten thousands opening-closing without deformation, effectively prevent your device from friction, scrapes and other harmful factors.<br> -Fiber inter-case is wear-resisting and scratch-free from your device. It can also disperse heat efficiently. <br> -Ultra-strength magnetic latch securely hold the device in the place. Easy to open and close.<br><br> Not just a laptop case <br> -The stand can bear continuous folding and 20 kg weight. Unique 9design is more comfortable when type or play games or etc. <br> -When it works as a stand, the space between the laptop and case can greatly accelerate heat dissipation<br><br> Details make excellence. <br> -Top sewing process and paint edge technology shows exquisite as well as increase durability. <br> -The overall color is fluent, smooth. No fade over time.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 16
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 16})"
+      }
+    ]
+  },
+  {
+    "user_query": "Hi, could you tell me how much the Gigabyte GA‑B85M‑DS3H‑A motherboard costs? Thanks!",
+    "target_item": {
+      "asin": "B00VX1GGWQ",
+      "title": "Gigabyte LGA 1150 B85 HDMI SATA 6Gb/s USB 3.0  DDR3 Motherboards (GA-B85M-DS3H-A)",
+      "brand": "Gigabyte",
+      "category": "Electronics",
+      "description": "Supports 4th Generation Intel Core processors GIGABYTE Ultra Durable 4 Plus Technology Audio Noise Guard with High Quality Audio Capacitors GIGABYTE Hybrid digital power engine GIGABYTE UEFI Dual BIOS GIGABYTE On/Off Charge for USB devices LAN with high ESD Protection HDMI 1.4, DVI, D-SUB Long lifespan Durable Solid caps GIGABYTE LAN Optimizer",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 21
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 21})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the SoundLogic XT CCV-12/6587 iTek HD DVR Dashboard Dash Cam cost?",
+    "target_item": {
+      "asin": "B019G31JEW",
+      "title": "SoundLogic XT CCV-12/6587 iTek HD DVR Dashboard Dash Cam with Microphone for Audio Recording, Wide Angle Car Camera Video Recorder Black Box with LED Lights for Your Vehicle",
+      "brand": "SoundLogic XT",
+      "category": "Electronics",
+      "description": "Every year more and more people are getting into auto accidents, getting bigger police citations and getting hurt on the road. Protect yourself with the iTek HD DVR Dashboard Dash Cam with Microphone for Audio Recording, Wide Angle Car Camera Video Recorder Black Box with LED Lights for your Vehicle by SoundLogic XT. The iTek is the Best Dash Cam under $50 on the market. Get the upper hand in a car accident with real time evidence to show who was at fault. Save yourself from traffic violations with high definition video proof that it wasn't your fault. It's so easy to capture video with full auto start recording functionality, you simply turn on your car and the dashboard dash cam starts recording! Fully customizable video mode features include video resolution, time stamp (toggle on/off), Motion detection (toggle on/off), Video record overwrite (1 minute, 3 minutes, 5 minutes or 10 minute overwrite sections) and also voice recording (toggle on/off). The iTek Dash Cam supports multiple languages including English, Chinese, Japanese, French, German, etc. The iTek Dashboard Dash Cam also comes fully equipped with a built-in SD Card slot (supports up to 32GB) so you can save a ton of videos without the hassle of switching multiple cards. Fully rechargeable with included DC 5V car charger. Included suction cup camera mount that sticks to your dashboard with ease. Included USB cable for data transfer of all your videos.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 24
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 24})"
+      }
+    ]
+  },
+  {
+    "user_query": "What's the current price for the Teorder RCA Composite AV CVBS to HDMI mini converter with USB charge cable?",
+    "target_item": {
+      "asin": "B01G6R3VEM",
+      "title": "Teorder RCA Composite AV CVBS to HDMI Audio Video Mini Converter Adaptor Full HD 720P 1080P with USB Charge Cable Support PAL/NTSC for PS3/STB/Xbox/VHS/VCR/Blue-Ray DVD Players/TV/PC",
+      "brand": "Teorder",
+      "category": "Electronics",
+      "description": "<b><b>Description/Features:</b></b>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 16
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 16})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the price of the Synology Disk Station 4-Bay Diskless Network Attached Storage (DS416j) or similar Synology NAS devices?",
+    "target_item": {
+      "asin": "B019ZUR5WQ",
+      "title": "Synology Disk Station 4-Bay Diskless Network Attached Storage (DS416j)",
+      "brand": "Synology",
+      "category": "Electronics",
+      "description": "Synology Disk Station DS416j is a 4-bay NAS server specifically designed for home and personal users to effectively manage, protect and share data. You can enjoy effortless data sharing, multimedia streaming and cloud synchronization features while keeping data safe and secure. Synology DS416j is backed with Synology's 2-year limited warranty.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 17
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 17})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the price of a Raspberry Pi 3 Model B motherboard?",
+    "target_item": {
+      "asin": "B01CD5VC92",
+      "title": "Raspberry Pi 3 Model B Motherboard",
+      "brand": "Raspberry Pi",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 23
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 23})"
+      }
+    ]
+  },
+  {
+    "user_query": "What's the price of the Fun-Home Left Angle USB 2.0 OTG Adapter?",
+    "target_item": {
+      "asin": "B013ENUF0Y",
+      "title": "Fun-Home Left Angle USB 2.0 Micro Male to USB Female Host OTG Adapter for SamSung i9100 i9300 With Power Features",
+      "brand": "Fun-Home",
+      "category": "Electronics",
+      "description": "<b>Features And Applications: </b><br><br> Micro USB Male to USB 2.0 Female Adapter <br><br> Lightweight and easy to carry <br><br> Plug and play Angled 90 degrees <br><br> The cable adapter USB Female To Micro USB 2.0 (OTG) is an excellent means for connecting electronic devices.<br><br> USB type B connector (Female) + Micro USB 5 Pin Connector Type B (male). <br><br> The cable has double shielding Interna which allows a greater distribution of the signal. <br><br> The use of the cable requires no driver installations and is compatible with the most popular smartphones and tablets on the market. With this adapter you can transfer photos, videos, documents and other data between your compatible phone to external memory .<br><br> You can also connect the Pennines Wireless Keyboard or Mouse to your smartphone. Compatible device with Wireless keyboard . <br><br> Max Transfer Rate 480 Mbps / s <br><br><br> <b>Package Content: </b><br><br> 1 X Left Angle USB 2.0 OTG<br><br><br> <b>NOTE: </b>The power function is just for suppling power for external device, not for charging.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 16
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 16})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the MoKo Case Fit iPad 2/3/4 (Carbon Fiber Blue) cost?",
+    "target_item": {
+      "asin": "B00FIYHAAG",
+      "title": "MoKo Case Fit iPad 2/3 / 4 - Slim-Fit Folio Stand Cover Case Fit Apple New iPad 4 &amp; 3 (3rd &amp; 4th Generation with Retina Display) / iPad 2, Carbon Fiber Blue",
+      "brand": "MoKo",
+      "category": "Electronics",
+      "description": "<b>Compatibility:</b></br> Custom designed for your precious Apple iPad 2 / 3 / 4 9.7 Inch tablet, this case features a combination of functionality and style. Well built to protect your iPad 2 / 3 /4 for the years to come. </br></br> <b>Product Description:</b></br> <br>Automatically wakes or puts Apple iPad 2 / 3 / 4 Tablet to sleep when the lid is opened and closed. <br>High Quality, Stylish and Durable, Easy to install and remove. <br>Available in PU or Genuine leather for a classy look. <br>Convenient stand position for watching movie or typing. <br>Interior hand strap for comfortable one-handed use. <br>With stylus pen loop.</br></br> <b>About us:</b></br> <br>This product is sold exclusively by BSCstore. Only buy from BSCstore to get genuine MoKo products with Lifetime warranty and superb customer service. <br>MoKo is registered trademark of BSCstore and is exclusively distributed by BSCstore on Amazon. MoKo trademark is protected by US Trademark Law.</br>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 16
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 16})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the price of the Philips SHS3200WT/37 flexible earhook headphones in white, or similar products in the electronics category?",
+    "target_item": {
+      "asin": "B003CJTR8C",
+      "title": "Philips SHS3200WT/37 Flexible Earhook Headphones White",
+      "brand": "Philips",
+      "category": "Electronics",
+      "description": "Ultra-comfortable for active use, these ergonomic ear hook headphones bring fantastic quality music reproduction straight to your ears.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 19
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 19})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the price of the Dragon Touch 7\" Quad Core Android Kids Tablet with Wi‑Fi (M7) and Blue Silicone Case?",
+    "target_item": {
+      "asin": "B011485B14",
+      "title": "Dragon Touch 7&quot; Quad Core Android Kids Tablet, IPS Display, with Wifi and Camera and Games, HD Kids Edition w/ Zoodles Pre-Installed (2015 New Model, M7 with Blue Silicone Case)",
+      "brand": "Dragon Touch",
+      "category": "Electronics",
+      "description": "Features: <ul><li> Google Android 4.4 (KitKat)<li> 7\" Multi-touch 1024x600 HD<li> Quad Core 4x1.2GH<li> 8 GB storage, 512MB RAM<li> Dual Camera<li> Wireless N (802.11b/g/n)<li> G-sensor</ul>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 18
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 18})"
+      }
+    ]
+  },
+  {
+    "user_query": "What's the current price of the Ubiquiti AIRGATEWAY Wireless access point 802.11 b/g/n?",
+    "target_item": {
+      "asin": "B00HXT84DG",
+      "title": "Ubiquiti AIRGATEWAY Wireless access point 802.11 b/g/n",
+      "brand": "Ubiquiti Networks",
+      "category": "Electronics",
+      "description": "The Ubiquiti airGateway provides a quick, easy and inexpensive way to provide indoor Wi-Fi capability to your airMax CPE device. The airGateway has a very compact form factor that attaches to the PoE injector included with all airMax devices, this combined with PoE pass-through results in an extremely convenient and intuitive solution for connecting indoor client devices to the outdoor CPE.  The Ubiquiti airGateway runs Ubiquiti's airOS V, a versatile operating system designed to require no training to operate, featuring powerful tools such as: airView, speed test, device discovery and more. <div style=\"text-align:center;width:100%;margin:22px 0;height:1px;border-top:1px solid #DDDDDD\"></div> <center><div class=\"transparency-container aplus-content-container\"> <a href=\"/b?node=12691228011\"><h3><img src=\"https://images-na.ssl-images-amazon.com/images/G/01/img16/pc/easychoice/landing/easychoice_landing_header.jpg\" width=\"65%\"/></h3></a></center></div> <div style=\"text-align:center;width:100%;margin:22px 0;height:1px;border-top:1px solid #DDDDDD\"></div>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 23
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 23})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Samsung UN40KU6300 40-inch 4K Ultra HD Smart LED TV cost?",
+    "target_item": {
+      "asin": "B01DUTOI5U",
+      "title": "Samsung UN40KU6300 40-Inch 4K Ultra HD Smart LED TV (2016 Model)",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "description": "Enjoy 4K Ultra HD resolution and High Dynamic Range (HDR) content that delivers greater clarity with Micro Dimming Pro and a fuller spectrum of color with Wide Color Enhancer. Access your favorite content quicker and easier with the new Samsung Smart TV platform powered by a Quad-Core Processor. <div></div>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 15
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 15})"
+      }
+    ]
+  },
+  {
+    "user_query": "Can you tell me how much the Voroar August DTA207 Digital TV Extendable Antenna costs? I'm interested in buying it.",
+    "target_item": {
+      "asin": "B0083FYL6I",
+      "title": "August DTA207 Digital TV Extendable Antenna - Portable Indoor/Outdoor Aerial for USB TV Tuner / Digital Television / DAB Radio - With Magnetic Base and Extendable Rod",
+      "brand": "Voroar",
+      "category": "Electronics",
+      "description": "The DTA207 antenna from August, the portable digital TV specialists, is designed specifically for digital reception. With a standard coaxial connection, it can be easily used with almost any portable or living room television set. Small, compact and lightweight, it is perfect for portable TVs and USB digital TV tuners, you can easily carry it in your laptop bag or TV case without worrying about extra weight or space. Its magnetic base attaches to large metal objects, using their surface area to enhance the reception quality. Capable of receiving frequencies of VHF 170-230MHz and UHF 470-869MHz it is ideal for both ATSC and DAB broadcasting. Whether you are looking for an aerial for your bedroom, kitchen, caravan, boat or car, the DTA207 will greatly improve your reception in almost any circumstance. <b>Please Note:</b> Digital TV reception is dependent upon environmental factors, we cannot guarantee reception in all conditions. We do offer a 30 day money back guarantee on all new items in order for you to test the suitability in your area. New product supplied retail packaged with 12 month warranty.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 21
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 21})"
+      }
+    ]
+  },
+  {
+    "user_query": "What’s the price of the Sewell Direct SW-29863-2 Deadbolt 2‑Pair Banana Plugs in the Electronics category?",
+    "target_item": {
+      "asin": "B00FF3UN72",
+      "title": "Sewell Direct SW-29863-2 Deadbolt 2-Pair Banana Plugs",
+      "brand": "Sewell Direct",
+      "category": "Electronics",
+      "description": "Get the most out of your home audio system by ensuring the best connection from your speaker cable to your receiver with the Sewell Deadbolt Banana plugs. Using self crimping teeth these plugs provide a simple, secure, and low profile connection without requiring soldering or screws. These 1.6\" inch plugs are extremely low profile making it so you can put your speakers or receiver closer to the wall. Unlike other banana plugs that use low quality metals like zinc alloy the Sewell Deadbolt Banana plugs use pure copper and high quality brass with 24k gold plating.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 18
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 18})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the price for the Cosmos Black Color PU Leather Travel Carrying Protection Case Box for COULAX CX04?",
+    "target_item": {
+      "asin": "B00M2S2MPO",
+      "title": "Cosmos Black Color PU Leather Travel Carrying Protection Case Box for COULAX CX04 / SoundPEATS Q800 / Mpow Jaws / Rymemo 2016 Newest Universal Wireless Bluetooth Headset Headphone",
+      "brand": "Cosmos",
+      "category": "Electronics",
+      "description": "This carrying case is designed for storing and protecting the SoundBEATS J-MALL SoundSOU Vktech Universal Hv-800 Wireless Bluetooth BT Stereo Music MP3 Neckband Headset and other small accessories. Hard shell case with soft interior layer offers better protection for your headset. <b>\"COSMOS\" is a registered trademark with the USPTO in USA. 'Cosmos Tech & Leisure' is the ONLY Authorized Distributor for \"COSMOS\" products.</b><br> <b>The product shown on pictures & images are from 'Cosmos Tech&Leisure'. To ensure that you received a COSMOS branded product, Make sure you are purchasing ONLY from \"Cosmos Tech&Leisure\"</b>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 16
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 16})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Plantronics M165 Marque 2 Ultralight Wireless Bluetooth Headset cost?",
+    "target_item": {
+      "asin": "B009657UWQ",
+      "title": "Plantronics M165 Marque 2 Ultralight Wireless Bluetooth Headset - Compatible with iPhone, Android, and Other Leading Smartphones",
+      "brand": "Plantronics",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 22
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 22})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does a Kodak 50128 4.7 GB DVD‑RW (25‑Pack) cost in the Electronics category?",
+    "target_item": {
+      "asin": "B0048AMJRA",
+      "title": "Kodak 50128 4.7 GB DVD-RW (25 - Pack)",
+      "brand": "Kodak",
+      "category": "Electronics",
+      "description": "25 DVD-RW Discs Rewritable",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 16
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 16})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Warmstor 23 Pieces Most Complete Professional Opening Pry Tool Repair Kit cost? Also price for similar kits in Electronics category?",
+    "target_item": {
+      "asin": "B01GJVEF18",
+      "title": "Warmstor 23 Pieces Most Complete Professional Opening Pry Tool Repair Kit with Non-Abrasive Nylon Spudgers, Anti-Static Tweezers and Necessary Screwdrivers",
+      "brand": "Warmstor",
+      "category": "Electronics",
+      "description": "<b>Features:</b><br><br>Everytime something goes wrong with your mobile phone or laptop, you cannot figure out a way to disassemble your device? Let's crack it open and see what kind of trouble you can get into.<br>This Warmstor 23 in 1 nice selection of tools help get devices apart and remove the small cables in cell phones and other devices.The screwdrivers is for iPad, iPhone, iPod, Samsung and more.And they are all magnetizated. The tweezers are good for really small items as the end is pointed. The pry tools are versatile as each one has it's own application functionality. All these tools are come in a nice durable canvas zipper TOOL KIT bag!<br> <br><b>Package Contents:</b> <br> <br>1 Premium Pentalobe Screwdriver (1.2 x 30mm) <br>1 Premium Pentalobe Screwdriver (0.8 x 30mm) <br>1 Premium Philips Head Screwdriver (1.2 x 30mm) <br>1 Premium Triangle Head Screwdriver (0.6 x 30mm)<br>1 Curved Tip ESD-15 Tweezers<br>1 Straight Tip ESD-16 Tweezers<br>1 Ultra-thin Steel pry tool<br>1 Metal Spatula/Scraper<br>1 Long Double-headed Metal Spudger Tablet Screen Opener<br>1 Long Nylon Spudger<br>1 Cross Crowbar<br>2 Double-headed Thin pry bar<br>3 Short Open Repair Pry Tools<br>1 SIM Card Tray Opener<br>2 Plastic guitar picks (One is ultra-thin)<br>1 Suction Cup <br>1 SIM Card Tray Opener <br>1 Ultrafine Microfiber Cleaning Cloth <br>1 Set of Replacement Adhesive",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 22
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 22})"
+      }
+    ]
+  },
+  {
+    "user_query": "What's the price for the Actiontec MoCA 2.0 Ethernet to Coax Adapter 2 Pack (ECB6000K02)?",
+    "target_item": {
+      "asin": "B013J7L6BW",
+      "title": "Actiontec MoCA 2.0 Ethernet to Coax Adapter, 2 Pack (ECB6000K02)",
+      "brand": "Actiontec",
+      "category": "Electronics",
+      "description": "The connected home needs more bandwidth than ever before. Actiontec's ECB6000 MoCA 2.0 Network Adapter twin-pack uses your home's existing coaxial wiring to create a high-speed Ethernet network with speeds up to 670 Mbps. These speeds ensure uninterrupted and pristine HD video, online gaming, and high speed networking. Your network will enjoy a blazing fast wired backbone enhancing the connected home experience. Simply plug one MoCA adapter into your router and another to the HDTV, set top box or other device. Most users can complete installation in less than 5 minutes. No professional installers necessary!",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 21
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 21})"
+      }
+    ]
+  },
+  {
+    "user_query": "Hi, can you tell me the price of the Apple iPad mini ME281LL/A (64GB, Wi‑Fi) in white?",
+    "target_item": {
+      "asin": "B00GQDCE72",
+      "title": "Apple iPad mini with Retina Display ME281LL/A (64GB, Wi-Fi, White with Silver) OLD VERSION",
+      "brand": "Apple",
+      "category": "Electronics",
+      "description": "The 7.9\" Retina Display makes its debut on the iPad mini, maintaining its enormous 2048 x 1536 native resolution. At 326 pixels per inch, the Retina Display can show up to 3.1 million pixels at a time. The Retina Display is also a capacitive touchscreen so you'll be able to utilize all the multi-touch gestures of iOS 7. Its smaller form factor makes it easier to hold in one hand. The iPad mini comes in a silver finish.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 15
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 15})"
+      }
+    ]
+  },
+  {
+    "user_query": "Hi, can you tell me the price of the Evagloss Self Tanner Sunless Tanning Lotion for Body & Face?",
+    "target_item": {
+      "asin": "B00EE95UDU",
+      "title": "Evagloss Self Tanner Sunless Tanning Lotion - Natural Healthy Beautiful Golden Glow for Body &amp; Face, Gradual &amp; Even Buildable Bronzer Light Medium or Dark",
+      "brand": "Evagloss",
+      "category": "Electronics",
+      "description": "The Anti-Fungal Nail Solution is the complete solution that effectively eliminates toenail and fingernail fungus infections.</br> </br>Say goodbye to discolored, weak and brittle nails, and say hello to clear and healthy nails.</br> </br>Natural and powerful fungus-fighting ingredients are blended into a powerful formula that provides visible results within weeks.</br> </br>Top Features:</br> </br>-Kills Nail Fungus Infections</br> </br>-Professional & Natural Formula</br> </br>-Strengthens, Restores & Protects</br> </br>-Corrects Discoloration</br> </br>-Prevents Further Infection</br> </br>-Safe & Gentle</br> </br>-Easy to Apply</br> </br>-100% Satisfaction Guarantee</br> </br>Directions:</br> </br>Wash and dry affected area thoroughly. Apply a full brush application twice daily to the affected area (around the nail & underneath nail tips).</br> </br>Allow product to absorb into the surrounding skin for 10-15 minutes.</br> </br>Caution:</br> </br>For external use only. Do not use on children under 2 years of age unless directed by doctor. When using this product, avoid contact with the eyes.</br> </br>If contact occurs, rinse the eyes very thoroughly with water.</br> </br>Stop use and ask a physician if irritation occurs or if there is no improvement within 4 weeks.</br> </br>Keep out of reach of young children. If swallowed, get medical assistance or contact a poison control center.</br> </br>Do not use this product, if you are pregnant or nursing.</br> </br>",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 23
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 23})"
+      }
+    ]
+  },
+  {
+    "user_query": "Could you tell me how much COSORI 679113375574 Cable Ties cost, or what are the prices of similar Electronics cable ties?",
+    "target_item": {
+      "asin": "B00SGYK1Y2",
+      "title": "COSORI 679113375574 Cable Ties",
+      "brand": "COSORI",
+      "category": "Electronics",
+      "description": "Reusable ties are low profile and are economical ties for wire and cord control. The straps are ideal to make appliance and Electronics wire and cable management quick and easy. Slotted head design ensures that strap stays with the cord so it doesn't get lost. These ties can help you quickly identify cables by creating color Codes for each cable. Not need to find and check around the devices. Simply wrap around the cable, simple and easy to use.",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 24
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 24})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the Evecase 7‑inch Tablet Sleeve in Blue cost?",
+    "target_item": {
+      "asin": "B00ZU1LXTG",
+      "title": "Tablet/Phablet Sleeve, Evecase 7-Inch Tablet/Phablet/GPS Portable Neoprene Travel Carrying Sleeve Case Bag with Accessory Pocket - Blue",
+      "brand": "Evecase",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 15
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 15})"
+      }
+    ]
+  },
+  {
+    "user_query": "How much does the IEIK Mega 2560 R3 board with ATmega2560 & ATMEGA16U2 cost, including the USB cable?",
+    "target_item": {
+      "asin": "B00OH21CRM",
+      "title": "IEIK Mega 2560 R3 ATmega2560-16AU + ATMEGA16U2 + USB Cable for Robot Arduino UNO MEGA2560 R3",
+      "brand": "IEIK",
+      "category": "Electronics",
+      "description": "Microcontroller ATmega2560 <br/> Operating Voltage 5V <br/> Input Voltage (recommended) 7-12V <br/> Input Voltage (limit) 6-20V <br/> Digital I/O Pins 54 (of which 15 provide PWM output) <br/> Analog Input Pins 16 <br/> DC Current per I/O Pin 20 mA <br/> DC Current for 3.3V Pin 50 mA <br/> Flash Memory 256 KB of which 8 KB used by bootloader <br/> SRAM 8 KB <br/> EEPROM 4 KB<br/> Clock Speed 16 MHz <br/> LED_BUILTIN 13<br/> Length 101.52 mm <br/> Width 53.3 mm",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sql_query_products",
+        "parameters": {
+          "query": "SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC",
+          "limit": 22
+        },
+        "command": "call_tool('sql_query_products', {\"query\": \"SELECT * FROM products WHERE category='Electronics' ORDER BY rating DESC\", \"limit\": 22})"
+      }
+    ]
+  }
+]

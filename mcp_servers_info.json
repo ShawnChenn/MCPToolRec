@@ -1,0 +1,700 @@
+{
+  "summary": {
+    "collection_timestamp": "2025-10-14T12:20:04.142700",
+    "total_servers": 28,
+    "successful_connections": 25,
+    "failed_connections": 3,
+    "total_tools_discovered": 15,
+    "batch_size": 5,
+    "total_batches": 6,
+    "connection_mode": "individual",
+    "retry_statistics": {
+      "servers_needed_retry": 3,
+      "total_retry_attempts": 12
+    },
+    "servers_needed_retry": [
+      {
+        "name": "Wikipedia",
+        "attempts": 5,
+        "status": "failed",
+        "tools_count": 0
+      },
+      {
+        "name": "BioMCP",
+        "attempts": 5,
+        "status": "failed",
+        "tools_count": 0
+      },
+      {
+        "name": "Reddit",
+        "attempts": 5,
+        "status": "failed",
+        "tools_count": 0
+      }
+    ],
+    "failed_servers": [
+      {
+        "name": "Wikipedia",
+        "error": "Connection timeout after 30 seconds",
+        "attempts": 5
+      },
+      {
+        "name": "BioMCP",
+        "error": "Connection timeout after 30 seconds",
+        "attempts": 5
+      },
+      {
+        "name": "Reddit",
+        "error": "Connection timeout after 30 seconds",
+        "attempts": 5
+      }
+    ]
+  },
+  "servers": {
+    "OpenAPI Explorer": {
+      "name": "OpenAPI Explorer",
+      "icon": "",
+      "description": "",
+      "command": [
+        "node",
+        "index.js",
+        "run"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Unit Converter": {
+      "name": "Unit Converter",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "-m",
+        "unit_converter_mcp.server"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Wikipedia": {
+      "name": "Wikipedia",
+      "icon": "",
+      "description": "",
+      "command": [
+        "uv",
+        "run",
+        "python",
+        "-m",
+        "wikipedia_mcp"
+      ],
+      "connection_status": "failed",
+      "error": "Connection timeout after 30 seconds",
+      "attempts": 5,
+      "tools": {}
+    },
+    "Google Maps": {
+      "name": "Google Maps",
+      "icon": "",
+      "description": "",
+      "command": [
+        "node",
+        "dist/cli.js",
+        "--port",
+        "3001"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Bibliomantic": {
+      "name": "Bibliomantic",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "bibliomantic_server.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "BioMCP": {
+      "name": "BioMCP",
+      "icon": "",
+      "description": "",
+      "command": [
+        "uv",
+        "run",
+        "biomcp",
+        "run"
+      ],
+      "connection_status": "failed",
+      "error": "Connection timeout after 30 seconds",
+      "attempts": 5,
+      "tools": {}
+    },
+    "Call for Papers": {
+      "name": "Call for Papers",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "server.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Car Price Evaluator": {
+      "name": "Car Price Evaluator",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "server.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Context7": {
+      "name": "Context7",
+      "icon": "",
+      "description": "",
+      "command": [
+        "node",
+        "dist/index.js"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "DEX Paprika": {
+      "name": "DEX Paprika",
+      "icon": "",
+      "description": "",
+      "command": [
+        "node",
+        "src/index.js"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "FruityVice": {
+      "name": "FruityVice",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "server.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Game Trends": {
+      "name": "Game Trends",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "server.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Huge Icons": {
+      "name": "Huge Icons",
+      "icon": "",
+      "description": "",
+      "command": [
+        "node",
+        "build/index.js"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Hugging Face": {
+      "name": "Hugging Face",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "src/huggingface/server.py"
+      ],
+      "connection_status": "success",
+      "tools": {
+        "search-models": {
+          "name": "search-models",
+          "description": "Search for models on Hugging Face Hub",
+          "input_schema": {
+            "type": "object",
+            "properties": {
+              "query": {
+                "type": "string",
+                "description": "Search term (e.g., 'bert', 'gpt')"
+              },
+              "author": {
+                "type": "string",
+                "description": "Filter by author/organization (e.g., 'huggingface', 'google')"
+              },
+              "tags": {
+                "type": "string",
+                "description": "Filter by tags (e.g., 'text-classification', 'translation')"
+              },
+              "limit": {
+                "type": "integer",
+                "description": "Maximum number of results to return"
+              }
+            }
+          }
+        },
+        "get-model-info": {
+          "name": "get-model-info",
+          "description": "Get detailed information about a specific model",
+          "input_schema": {
+            "type": "object",
+            "properties": {
+              "model_id": {
+                "type": "string",
+                "description": "The ID of the model (e.g., 'google/bert-base-uncased')"
+              }
+            },
+            "required": [
+              "model_id"
+            ]
+          }
+        },
+        "search-datasets": {
+          "name": "search-datasets",
+          "description": "Search for datasets on Hugging Face Hub",
+          "input_schema": {
+            "type": "object",
+            "properties": {
+              "query": {
+                "type": "string",
+                "description": "Search term"
+              },
+              "author": {
+                "type": "string",
+                "description": "Filter by author/organization"
+              },
+              "tags": {
+                "type": "string",
+                "description": "Filter by tags"
+              },
+              "limit": {
+                "type": "integer",
+                "description": "Maximum number of results to return"
+              }
+            }
+          }
+        },
+        "get-dataset-info": {
+          "name": "get-dataset-info",
+          "description": "Get detailed information about a specific dataset",
+          "input_schema": {
+            "type": "object",
+            "properties": {
+              "dataset_id": {
+                "type": "string",
+                "description": "The ID of the dataset (e.g., 'squad')"
+              }
+            },
+            "required": [
+              "dataset_id"
+            ]
+          }
+        },
+        "search-spaces": {
+          "name": "search-spaces",
+          "description": "Search for Spaces on Hugging Face Hub",
+          "input_schema": {
+            "type": "object",
+            "properties": {
+              "query": {
+                "type": "string",
+                "description": "Search term"
+              },
+              "author": {
+                "type": "string",
+                "description": "Filter by author/organization"
+              },
+              "tags": {
+                "type": "string",
+                "description": "Filter by tags"
+              },
+              "sdk": {
+                "type": "string",
+                "description": "Filter by SDK (e.g., 'streamlit', 'gradio', 'docker')"
+              },
+              "limit": {
+                "type": "integer",
+                "description": "Maximum number of results to return"
+              }
+            }
+          }
+        },
+        "get-space-info": {
+          "name": "get-space-info",
+          "description": "Get detailed information about a specific Space",
+          "input_schema": {
+            "type": "object",
+            "properties": {
+              "space_id": {
+                "type": "string",
+                "description": "The ID of the Space (e.g., 'huggingface/diffusers-demo')"
+              }
+            },
+            "required": [
+              "space_id"
+            ]
+          }
+        },
+        "get-paper-info": {
+          "name": "get-paper-info",
+          "description": "Get information about a specific paper on Hugging Face",
+          "input_schema": {
+            "type": "object",
+            "properties": {
+              "arxiv_id": {
+                "type": "string",
+                "description": "The arXiv ID of the paper (e.g., '1810.04805')"
+              }
+            },
+            "required": [
+              "arxiv_id"
+            ]
+          }
+        },
+        "get-daily-papers": {
+          "name": "get-daily-papers",
+          "description": "Get the list of daily papers curated by Hugging Face",
+          "input_schema": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "search-collections": {
+          "name": "search-collections",
+          "description": "Search for collections on Hugging Face Hub",
+          "input_schema": {
+            "type": "object",
+            "properties": {
+              "owner": {
+                "type": "string",
+                "description": "Filter by owner"
+              },
+              "item": {
+                "type": "string",
+                "description": "Filter by item (e.g., 'models/teknium/OpenHermes-2.5-Mistral-7B')"
+              },
+              "query": {
+                "type": "string",
+                "description": "Search term for titles and descriptions"
+              },
+              "limit": {
+                "type": "integer",
+                "description": "Maximum number of results to return"
+              }
+            }
+          }
+        },
+        "get-collection-info": {
+          "name": "get-collection-info",
+          "description": "Get detailed information about a specific collection",
+          "input_schema": {
+            "type": "object",
+            "properties": {
+              "namespace": {
+                "type": "string",
+                "description": "The namespace of the collection (user or organization)"
+              },
+              "collection_id": {
+                "type": "string",
+                "description": "The ID part of the collection"
+              }
+            },
+            "required": [
+              "namespace",
+              "collection_id"
+            ]
+          }
+        }
+      },
+      "attempts": 1
+    },
+    "Math MCP": {
+      "name": "Math MCP",
+      "icon": "",
+      "description": "",
+      "command": [
+        "node",
+        "build/index.js"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "NixOS": {
+      "name": "NixOS",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "mcp_nixos/server.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "OSINT Intelligence": {
+      "name": "OSINT Intelligence",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "mcp_osint_server/mcp_osint_server/main.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Reddit": {
+      "name": "Reddit",
+      "icon": "",
+      "description": "",
+      "command": [
+        "uv",
+        "run",
+        "python",
+        "-m",
+        "mcp_reddit.reddit_fetcher"
+      ],
+      "connection_status": "failed",
+      "error": "Connection timeout after 30 seconds",
+      "attempts": 5,
+      "tools": {}
+    },
+    "National Parks": {
+      "name": "National Parks",
+      "icon": "",
+      "description": "",
+      "command": [
+        "node",
+        "build/index.js"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Medical Calculator": {
+      "name": "Medical Calculator",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "medcalc/__main__.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Metropolitan Museum": {
+      "name": "Metropolitan Museum",
+      "icon": "",
+      "description": "",
+      "command": [
+        "node",
+        "dist/index.js"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Movie Recommender": {
+      "name": "Movie Recommender",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "server.py"
+      ],
+      "connection_status": "success",
+      "tools": {
+        "get_movies": {
+          "name": "get_movies",
+          "description": "\n    Get movie suggestions based on keyword.\n    ",
+          "input_schema": {
+            "properties": {
+              "keyword": {
+                "title": "Keyword",
+                "type": "string"
+              }
+            },
+            "required": [
+              "keyword"
+            ],
+            "title": "get_moviesArguments",
+            "type": "object"
+          }
+        }
+      },
+      "attempts": 1
+    },
+    "NASA Data": {
+      "name": "NASA Data",
+      "icon": "",
+      "description": "",
+      "command": [
+        "uv",
+        "run",
+        "python",
+        "main.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "OKX Exchange": {
+      "name": "OKX Exchange",
+      "icon": "",
+      "description": "",
+      "command": [
+        "node",
+        "build/index.js"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Paper Search": {
+      "name": "Paper Search",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "-m",
+        "paper_search_mcp.server"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Scientific Computing": {
+      "name": "Scientific Computing",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "src/server.py"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    },
+    "Weather Data": {
+      "name": "Weather Data",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "server.py"
+      ],
+      "connection_status": "success",
+      "tools": {
+        "get_current_weather_tool": {
+          "name": "get_current_weather_tool",
+          "description": "\n    Get current weather information for a specific city.\n\n    Args:\n        city: Name of the city to get weather for\n\n    Returns:\n        Current weather data including temperature, conditions, humidity, wind, etc.\n    ",
+          "input_schema": {
+            "properties": {
+              "city": {
+                "title": "City",
+                "type": "string"
+              }
+            },
+            "required": [
+              "city"
+            ],
+            "title": "get_current_weather_toolArguments",
+            "type": "object"
+          }
+        },
+        "get_weather_forecast_tool": {
+          "name": "get_weather_forecast_tool",
+          "description": "\n    Get weather forecast for a specific city.\n\n    Args:\n        city: Name of the city to get forecast for\n        days: Number of days to forecast (1-10, default: 3)\n\n    Returns:\n        Weather forecast data for the specified number of days\n    ",
+          "input_schema": {
+            "properties": {
+              "city": {
+                "title": "City",
+                "type": "string"
+              },
+              "days": {
+                "default": 3,
+                "title": "Days",
+                "type": "integer"
+              }
+            },
+            "required": [
+              "city"
+            ],
+            "title": "get_weather_forecast_toolArguments",
+            "type": "object"
+          }
+        },
+        "search_locations_tool": {
+          "name": "search_locations_tool",
+          "description": "\n    Search for locations by name.\n\n    Args:\n        query: Location name or partial name to search for\n\n    Returns:\n        List of matching locations with their details\n    ",
+          "input_schema": {
+            "properties": {
+              "query": {
+                "title": "Query",
+                "type": "string"
+              }
+            },
+            "required": [
+              "query"
+            ],
+            "title": "search_locations_toolArguments",
+            "type": "object"
+          }
+        },
+        "get_live_temp": {
+          "name": "get_live_temp",
+          "description": "\n    Legacy tool: Get current temperature for a city (for backward compatibility).\n    Use get_current_weather_tool for more detailed information.\n    ",
+          "input_schema": {
+            "properties": {
+              "city": {
+                "title": "City",
+                "type": "string"
+              }
+            },
+            "required": [
+              "city"
+            ],
+            "title": "get_live_tempArguments",
+            "type": "object"
+          }
+        }
+      },
+      "attempts": 1
+    },
+    "Time MCP": {
+      "name": "Time MCP",
+      "icon": "",
+      "description": "",
+      "command": [
+        "python",
+        "-m",
+        "mcp_server_time"
+      ],
+      "connection_status": "success_no_tools",
+      "tools": {},
+      "attempts": 1
+    }
+  }
+}

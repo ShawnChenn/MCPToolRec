@@ -1,0 +1,17 @@
+{
+  "Wikipedia": {
+    "cmd": "uv run python -m wikipedia_mcp",
+    "env": [],
+    "cwd": "../wikipedia-mcp"
+  },
+  "Movie Recommender": {
+    "cmd": "python server.py",
+    "env": [],
+    "cwd": "../movie-recommender-mcp/movie-reccomender-mcp"
+  },
+  "Retrieval Server": {
+    "cmd": "python server.py",
+    "env": [],
+    "cwd": "../retrieval-mcp-server"
+  }
+}

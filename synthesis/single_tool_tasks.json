@@ -1,0 +1,1102 @@
+[
+  {
+    "user_query": "What is the general sentiment or satisfaction level from customer reviews for the AmazonBasics 10 ft High-Speed HDMI Cable 2-pack?",
+    "target_item": {
+      "asin": "B014I8T4MO",
+      "title": "AmazonBasics High-Speed HDMI Cable, 10 Feet, 2-Pack",
+      "brand": "AmazonBasics",
+      "category": "Electronics",
+      "description": "",
+      "price": 10.33
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the general sentiment or satisfaction level from customer reviews for the AmazonBasics 10 ft High-Speed HDMI Cable 2-pack?",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the general sentiment or satisfaction level from customer reviews for the AmazonBasics 10 ft High-Speed HDMI Cable 2-pack?\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What's the overall customer sentiment about the MSI Micro Star Accessory Tpm Module Infineon Chip Tpm V3.19 914‑4136‑103?",
+    "target_item": {
+      "asin": "B00C2DKC88",
+      "title": "MSI Micro Star Accessory Tpm Module Infineon Chip Tpm V3.19 914-4136-103",
+      "brand": "MSI",
+      "category": "Electronics",
+      "description": "",
+      "price": 19.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What's the overall customer sentiment about the MSI Micro Star Accessory Tpm Module Infineon Chip Tpm V3.19 914‑4136‑103?",
+          "limit": 9,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What's the overall customer sentiment about the MSI Micro Star Accessory Tpm Module Infineon Chip Tpm V3.19 914‑4136‑103?\", \"limit\": 9, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment of customers about the Cable Matters 5-Pack Ethernet Coupler in recent reviews?",
+    "target_item": {
+      "asin": "B00WKPKE40",
+      "title": "[UL Listed] Cable Matters 5-Pack Ethernet Coupler (RJ45 Coupler / Cat5e Cat6 Coupler) in Black",
+      "brand": "Cable Matters",
+      "category": "Electronics",
+      "description": "",
+      "price": 12.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment of customers about the Cable Matters 5-Pack Ethernet Coupler in recent reviews?",
+          "limit": 9,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment of customers about the Cable Matters 5-Pack Ethernet Coupler in recent reviews?\", \"limit\": 9, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment or customer satisfaction level in reviews for the 60mm Universal Arca Swiss Quick Release Plate?",
+    "target_item": {
+      "asin": "B014TPGJH4",
+      "title": "60mm Universal Arca Swiss Quick Release Plate for Tripod Ball Head with Hand-Adjustable Stainless Steel Screw &amp; Removable Rear Stopper by Breakthrough Photography",
+      "brand": "Breakthrough Photography",
+      "category": "Electronics",
+      "description": "",
+      "price": 15.0
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment or customer satisfaction level in reviews for the 60mm Universal Arca Swiss Quick Release Plate?",
+          "limit": 12,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment or customer satisfaction level in reviews for the 60mm Universal Arca Swiss Quick Release Plate?\", \"limit\": 12, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "How do customers feel overall about the LP EN-EL15 charger? Any common praise or complaints?",
+    "target_item": {
+      "asin": "B01HGF6XTI",
+      "title": "LP EN-EL15 EN EL15a Battery Charger, Compatible with Nikon D500, D600, D610, D750, D800, D800E, D810, D810A, D850, D7000, D7100, D7200, D7500, 1 V1, Z6, Z7 Cameras, Replacement for MH-25 Charger",
+      "brand": "LP",
+      "category": "Electronics",
+      "description": "",
+      "price": 9.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How do customers feel overall about the LP EN-EL15 charger? Any common praise or complaints?",
+          "limit": 9,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How do customers feel overall about the LP EN-EL15 charger? Any common praise or complaints?\", \"limit\": 9, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "What does the overall sentiment feel like among customers for the APC BE650G1 UPS Battery Backup?",
+    "target_item": {
+      "asin": "B005GZRUZW",
+      "title": "APC UPS Battery Backup &amp; Surge Protector, 650VA, APC Back-UPS (BE650G1)",
+      "brand": "APC",
+      "category": "Electronics",
+      "description": "",
+      "price": 4.58
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What does the overall sentiment feel like among customers for the APC BE650G1 UPS Battery Backup?",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What does the overall sentiment feel like among customers for the APC BE650G1 UPS Battery Backup?\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall customer sentiment for the Microseven 1080P HD WiFi Outdoor Camera?",
+    "target_item": {
+      "asin": "B00M5OV5GC",
+      "title": "Microseven 1080P HD WiFi Outdoor Camera, Alexa, Two-Way Audio Wide Angle,128GB SD Card Slot, Motion Detection, Night Vision Bullet IP Camera, Free 24hr Cloud Storage, Waterproof Security Camera, ONVIF",
+      "brand": "Microseven",
+      "category": "Electronics",
+      "description": "",
+      "price": 4.82
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall customer sentiment for the Microseven 1080P HD WiFi Outdoor Camera?",
+          "limit": 10,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall customer sentiment for the Microseven 1080P HD WiFi Outdoor Camera?\", \"limit\": 10, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "How satisfied are buyers with the Rockford Fosgate RFI-10 Twisted Pair Signal Cable based on their reviews?",
+    "target_item": {
+      "asin": "B001AO2T18",
+      "title": "Rockford Fosgate RFI-10 Twisted Pair Signal Cable -10 feet",
+      "brand": "Rockford Fosgate",
+      "category": "Electronics",
+      "description": "",
+      "price": 10.95
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How satisfied are buyers with the Rockford Fosgate RFI-10 Twisted Pair Signal Cable based on their reviews?",
+          "limit": 12,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How satisfied are buyers with the Rockford Fosgate RFI-10 Twisted Pair Signal Cable based on their reviews?\", \"limit\": 12, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "What does the overall sentiment of customer reviews for the Digital Treasures ChargeIt Battery Station Pro indicate?",
+    "target_item": {
+      "asin": "B00BF0RQII",
+      "title": "Digital Treasures ChargeIt Battery Station Pro Battery Charger (DRDT-08767)",
+      "brand": "Digital Treasures",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What does the overall sentiment of customer reviews for the Digital Treasures ChargeIt Battery Station Pro indicate?",
+          "limit": 8,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What does the overall sentiment of customer reviews for the Digital Treasures ChargeIt Battery Station Pro indicate?\", \"limit\": 8, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment of customer reviews for the FireStik FL3-B Three Foot FireFly Antenna?",
+    "target_item": {
+      "asin": "B005AUJXLM",
+      "title": "FireStik FL3-B Three Foot FireFly Antenna With Tuneable Tip (Black)",
+      "brand": "FireStik",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment of customer reviews for the FireStik FL3-B Three Foot FireFly Antenna?",
+          "limit": 11,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment of customer reviews for the FireStik FL3-B Three Foot FireFly Antenna?\", \"limit\": 11, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment or customer satisfaction like for the NETGEAR GS105NA in recent reviews?",
+    "target_item": {
+      "asin": "B0000BVYT3",
+      "title": "NETGEAR 5-Port Gigabit Ethernet Unmanaged Switch, Sturdy Metal, Desktop, Plug-and-Play, ProSAFE Lifetime Protection (GS105NA)",
+      "brand": "NETGEAR",
+      "category": "Electronics",
+      "description": "",
+      "price": 1.54
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment or customer satisfaction like for the NETGEAR GS105NA in recent reviews?",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment or customer satisfaction like for the NETGEAR GS105NA in recent reviews?\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What's the overall customer sentiment on the Twisted Veins 3ft HDMI cable reviews?",
+    "target_item": {
+      "asin": "B00BEJ83MI",
+      "title": "Twisted Veins HDMI Cable 3 ft, Premium HDMI Cord Type High Speed with Ethernet, Supports HDMI 2.0b 4K 60hz HDR on All Tested Devices Except Apple TV 4K Where it Only Supports 4K 30hz",
+      "brand": "Twisted Veins",
+      "category": "Electronics",
+      "description": "",
+      "price": 5.5
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What's the overall customer sentiment on the Twisted Veins 3ft HDMI cable reviews?",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What's the overall customer sentiment on the Twisted Veins 3ft HDMI cable reviews?\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What's the overall sentiment or satisfaction level of reviewers for the CHAFON Multi USB Cable with Type C, Micro, Mini USB Ports?",
+    "target_item": {
+      "asin": "B01DK13VZ6",
+      "title": "CHAFON Multi USB Cable with Type C,Micro,Mini USB Ports for Charging- Black",
+      "brand": "CHAFON",
+      "category": "Electronics",
+      "description": "",
+      "price": 8.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What's the overall sentiment or satisfaction level of reviewers for the CHAFON Multi USB Cable with Type C, Micro, Mini USB Ports?",
+          "limit": 11,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What's the overall sentiment or satisfaction level of reviewers for the CHAFON Multi USB Cable with Type C, Micro, Mini USB Ports?\", \"limit\": 11, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment or customer satisfaction expressed in reviews for the COWIN E7 headphones?",
+    "target_item": {
+      "asin": "B019U00D7K",
+      "title": "COWIN E7 Active Noise Cancelling Headphones Bluetooth Headphones with Mic Deep Bass Wireless Headphones Over Ear, Comfortable Protein Earpads, 30H Playtime for Travel Work TV PC Cellphone - Black",
+      "brand": "COWIN",
+      "category": "Electronics",
+      "description": "",
+      "price": 6.0
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment or customer satisfaction expressed in reviews for the COWIN E7 headphones?",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment or customer satisfaction expressed in reviews for the COWIN E7 headphones?\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall customer satisfaction sentiment for the Anker 2.4G Wireless Vertical Ergonomic Optical Mouse?",
+    "target_item": {
+      "asin": "B00BIFNTMC",
+      "title": "Anker 2.4G Wireless Vertical Ergonomic Optical Mouse, 800 / 1200 /1600DPI, 5 Buttons - Black",
+      "brand": "Anker",
+      "category": "Electronics",
+      "description": "",
+      "price": 19.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall customer satisfaction sentiment for the Anker 2.4G Wireless Vertical Ergonomic Optical Mouse?",
+          "limit": 9,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall customer satisfaction sentiment for the Anker 2.4G Wireless Vertical Ergonomic Optical Mouse?\", \"limit\": 9, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment of customer reviews for the Think Tank Photo Urban Approach 15 Backpack for mirrorless camera systems?",
+    "target_item": {
+      "asin": "B00UH41VKC",
+      "title": "Think Tank Photo Urban Approach 15 Backpack for Mirrorless Camera Systems (Black)",
+      "brand": "Think Tank",
+      "category": "Electronics",
+      "description": "",
+      "price": 17.59
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment of customer reviews for the Think Tank Photo Urban Approach 15 Backpack for mirrorless camera systems?",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment of customer reviews for the Think Tank Photo Urban Approach 15 Backpack for mirrorless camera systems?\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the general sentiment and satisfaction level of customers who reviewed the PNY 16GB high-speed MicroSDHC card?",
+    "target_item": {
+      "asin": "B00Y095HY6",
+      "title": "PNY High Performance 16GB High Speed MicroSDHC Class 10 UHS-I, U1 up to 60MB/sec Flash Memory Card (P-SDU16GU160G-GE)",
+      "brand": "PNY",
+      "category": "Electronics",
+      "description": "",
+      "price": 4.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the general sentiment and satisfaction level of customers who reviewed the PNY 16GB high-speed MicroSDHC card?",
+          "limit": 10,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the general sentiment and satisfaction level of customers who reviewed the PNY 16GB high-speed MicroSDHC card?\", \"limit\": 10, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment or customer satisfaction for the AOC e2050Swd 20‑inch monitor from recent reviews?",
+    "target_item": {
+      "asin": "B00C8T5KOW",
+      "title": "AOC e2050Swd 20-Inch Class Screen LED-Lit Computer Monitor, 1600 x 900 Resolution, 5ms, 20M:1DCR, VGA/DVI, VESA",
+      "brand": "AOC",
+      "category": "Electronics",
+      "description": "",
+      "price": 4.26
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment or customer satisfaction for the AOC e2050Swd 20‑inch monitor from recent reviews?",
+          "limit": 10,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment or customer satisfaction for the AOC e2050Swd 20‑inch monitor from recent reviews?\", \"limit\": 10, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "What overall sentiment do customers express about the Nest Cam AC Outlet Mount?",
+    "target_item": {
+      "asin": "B01G9MNH6Q",
+      "title": "Nest Cam AC Outlet Mount; Wall Mount with 360 Degree Swivel for Nest Cam and Dropcam PRO by Wasserstein (Black)",
+      "brand": "Wasserstein",
+      "category": "Electronics",
+      "description": "",
+      "price": 14.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What overall sentiment do customers express about the Nest Cam AC Outlet Mount?",
+          "limit": 11,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What overall sentiment do customers express about the Nest Cam AC Outlet Mount?\", \"limit\": 11, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the general sentiment and satisfaction level expressed by customers in reviews of the Kastar Battery (3-Pack) and Charger Kit for these cameras?",
+    "target_item": {
+      "asin": "B018EC8Z8Y",
+      "title": "Kastar Battery (3-Pack) and Charger Kit for Olympus LI-50B, LI-50C, Pentax D-LI92, Panasonic VW-VBX090 and Olympus Stylus,Tough Series, Pentax Optio Series, Panasonic HX-WA03 WA2 WA20 WA3 WA301 Camera",
+      "brand": "Kastar",
+      "category": "Electronics",
+      "description": "",
+      "price": 12.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the general sentiment and satisfaction level expressed by customers in reviews of the Kastar Battery (3-Pack) and Charger Kit for these cameras?",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the general sentiment and satisfaction level expressed by customers in reviews of the Kastar Battery (3-Pack) and Charger Kit for these cameras?\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "How do customers rate the VCE 3 Pack HDMI Female Coupler overall in recent feedback?",
+    "target_item": {
+      "asin": "B00XMMFMS8",
+      "title": "VCE 3 Pack HDMI Female To Female Coupler Gold Plated High Speed HDMI Female Adaptor",
+      "brand": "VCE",
+      "category": "Electronics",
+      "description": "",
+      "price": 5.98
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How do customers rate the VCE 3 Pack HDMI Female Coupler overall in recent feedback?",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How do customers rate the VCE 3 Pack HDMI Female Coupler overall in recent feedback?\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What overall sentiment do customers express in reviews about the SoundBot SB210 HD Stereo Bluetooth Beanie Headset?",
+    "target_item": {
+      "asin": "B0163N2T38",
+      "title": "SoundBot&uml; SB210 HD Stereo Bluetooth 4.1 Wireless Smart Beanie Headset Musical Knit Headphone Speaker Hat Speakerphone Cap,Built-in Mic (BLK)",
+      "brand": "Soundbot",
+      "category": "Electronics",
+      "description": "",
+      "price": 6.04
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What overall sentiment do customers express in reviews about the SoundBot SB210 HD Stereo Bluetooth Beanie Headset?",
+          "limit": 12,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What overall sentiment do customers express in reviews about the SoundBot SB210 HD Stereo Bluetooth Beanie Headset?\", \"limit\": 12, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "How satisfied are buyers with the Cooler Master Vortex Plus cooler according to reviews?",
+    "target_item": {
+      "asin": "B003INFE16",
+      "title": "Cooler Master Vortex Plus - CPU Cooler with Aluminum Fins and 4 Direct Contact Heat Pipes (RR-VTPS-28PK-R1)",
+      "brand": "Cooler Master",
+      "category": "Electronics",
+      "description": "",
+      "price": 2.54
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How satisfied are buyers with the Cooler Master Vortex Plus cooler according to reviews?",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How satisfied are buyers with the Cooler Master Vortex Plus cooler according to reviews?\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "How do customers feel overall about the Nekteck 4‑outlet power strip with USB charger?",
+    "target_item": {
+      "asin": "B01GKQU66U",
+      "title": "Nekteck Power Strip/Surge Protector Flat Wall Plug with 4 AC Outlets (Individually Controlled) 20W 2-Port USB Charger for iPhone, Samsung Galaxys, Nexus, Tablets, LG and More [9.3ft Cord,4AC, 2 USB]",
+      "brand": "Nekteck",
+      "category": "Electronics",
+      "description": "",
+      "price": 19.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How do customers feel overall about the Nekteck 4‑outlet power strip with USB charger?",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How do customers feel overall about the Nekteck 4‑outlet power strip with USB charger?\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What do customers think overall about the MoKo iPad Air case? Summarize general sentiment and satisfaction.",
+    "target_item": {
+      "asin": "B01HCGZQQC",
+      "title": "MoKo Case Fit iPad Air - Slim Lightweight Smart Shell Stand Cover with Translucent Frosted Back Protector for iPad Air 9.7 Inch Tablet, New York City (with Auto Wake/Sleep, Not fit iPad Air 2)",
+      "brand": "MoKo",
+      "category": "Electronics",
+      "description": "",
+      "price": 11.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What do customers think overall about the MoKo iPad Air case? Summarize general sentiment and satisfaction.",
+          "limit": 10,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What do customers think overall about the MoKo iPad Air case? Summarize general sentiment and satisfaction.\", \"limit\": 10, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the general sentiment or customer satisfaction expressed in reviews for the PWR+ CAR Charger 70W Panasonic Toughbook Laptop?",
+    "target_item": {
+      "asin": "B004UBHQWA",
+      "title": "PWR+ CAR Charger 70W Panasonic Toughbook Laptop: UL Listed Cf-29 Cf-30 Cf-18 Cf-19 Mk3 Mk4 19kdrax6b Cf-19r 19rcrag6m 19rdrax1m CF-C2A CF-C2ACAAXLM Toughpad 4K G1 FZ-G1 FZ-G1A M1 FZ-M1 Compatible",
+      "brand": "PWR+",
+      "category": "Electronics",
+      "description": "",
+      "price": 24.47
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the general sentiment or customer satisfaction expressed in reviews for the PWR+ CAR Charger 70W Panasonic Toughbook Laptop?",
+          "limit": 10,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the general sentiment or customer satisfaction expressed in reviews for the PWR+ CAR Charger 70W Panasonic Toughbook Laptop?\", \"limit\": 10, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "How satisfied are customers with the Hermitshell Travel EVA Protective Case?",
+    "target_item": {
+      "asin": "B01ALB08CC",
+      "title": "Hermitshell Travel EVA Protective Case Carrying Pouch Cover Bag Compact Sizes for Logitech Mouse M570 Wireless Trackball",
+      "brand": "Hermitshell",
+      "category": "Electronics",
+      "description": "",
+      "price": 7.29
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How satisfied are customers with the Hermitshell Travel EVA Protective Case?",
+          "limit": 10,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How satisfied are customers with the Hermitshell Travel EVA Protective Case?\", \"limit\": 10, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "What's the overall customer sentiment on the AmazonBasics Portable Photo Studio? I'm interested in overall satisfaction from user reviews.",
+    "target_item": {
+      "asin": "B01GIL6EU4",
+      "title": "AmazonBasics Portable Photo Studio",
+      "brand": "AmazonBasics",
+      "category": "Electronics",
+      "description": "",
+      "price": 13.55
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What's the overall customer sentiment on the AmazonBasics Portable Photo Studio? I'm interested in overall satisfaction from user reviews.",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What's the overall customer sentiment on the AmazonBasics Portable Photo Studio? I'm interested in overall satisfaction from user reviews.\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment expressed in customer reviews for the Kinivo BTD‑400 Bluetooth 4.0 Low Energy USB Adapter?",
+    "target_item": {
+      "asin": "B007Q45EF4",
+      "title": "Kinivo BTD-400 Bluetooth 4.0 Low Energy USB Adapter - For Windows 10/8.1/8 / Windows 7 / Vista, Raspberry Pi, Linux",
+      "brand": "Kinivo",
+      "category": "Electronics",
+      "description": "",
+      "price": 11.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment expressed in customer reviews for the Kinivo BTD‑400 Bluetooth 4.0 Low Energy USB Adapter?",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment expressed in customer reviews for the Kinivo BTD‑400 Bluetooth 4.0 Low Energy USB Adapter?\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall customer sentiment towards the CyberPower CSP300WUR1 5 Outlet Surge Wall Tap with 2 USB Charger?",
+    "target_item": {
+      "asin": "B00K8ZMT2Y",
+      "title": "CyberPower CSP300WUR1 5 Outlet Surge Wall Tap with 2 USB Charger",
+      "brand": "CyberPower",
+      "category": "Electronics",
+      "description": "",
+      "price": 2.0
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall customer sentiment towards the CyberPower CSP300WUR1 5 Outlet Surge Wall Tap with 2 USB Charger?",
+          "limit": 12,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall customer sentiment towards the CyberPower CSP300WUR1 5 Outlet Surge Wall Tap with 2 USB Charger?\", \"limit\": 12, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "How do customers feel overall about the Rosewill 6 Outlet Power Strip with Individual Switches and 6-Feet Cord?",
+    "target_item": {
+      "asin": "B005HTQAK8",
+      "title": "Rosewill 6 Outlet Power Strip with Individual Switches and 6-Feet Cord, RPS-200",
+      "brand": "Rosewill",
+      "category": "Electronics",
+      "description": "",
+      "price": 15.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How do customers feel overall about the Rosewill 6 Outlet Power Strip with Individual Switches and 6-Feet Cord?",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How do customers feel overall about the Rosewill 6 Outlet Power Strip with Individual Switches and 6-Feet Cord?\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Can you tell me how customers feel overall about the Athlon Optics Midas 8x42 binocular?",
+    "target_item": {
+      "asin": "B00YLTG7DA",
+      "title": "Athlon Optics , Midas, Binocular, 8 x 42 ED Roof,",
+      "brand": "Athlon Optics",
+      "category": "Electronics",
+      "description": "",
+      "price": 230.59
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Can you tell me how customers feel overall about the Athlon Optics Midas 8x42 binocular?",
+          "limit": 9,
+          "threshold": 0.1
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Can you tell me how customers feel overall about the Athlon Optics Midas 8x42 binocular?\", \"limit\": 9, \"threshold\": 0.1})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment of reviews for the StarTech 19in Metal Rackmount Cable Management Panel?",
+    "target_item": {
+      "asin": "B00066HS4O",
+      "title": "StarTech.com 19in Metal Rackmount Cable Management Panel - Rack cable management kit - 1U",
+      "brand": "StarTech",
+      "category": "Electronics",
+      "description": "",
+      "price": 28.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment of reviews for the StarTech 19in Metal Rackmount Cable Management Panel?",
+          "limit": 9,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment of reviews for the StarTech 19in Metal Rackmount Cable Management Panel?\", \"limit\": 9, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the general sentiment from customers about the Blackmagic Design Cinema Camera with EF Mount?",
+    "target_item": {
+      "asin": "B00C89ZVR8",
+      "title": "Blackmagic Design Cinema Camera with EF Mount",
+      "brand": "Blackmagic Design",
+      "category": "Electronics",
+      "description": "",
+      "price": 959.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the general sentiment from customers about the Blackmagic Design Cinema Camera with EF Mount?",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the general sentiment from customers about the Blackmagic Design Cinema Camera with EF Mount?\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "How satisfied are users with the Tripp Lite 3-Port USB‑C to USB‑A hub, including its Ethernet port?",
+    "target_item": {
+      "asin": "B018LWTYGO",
+      "title": "Tripp Lite 3-Port USB-C to USB-A Portable Hub with Gigabit Ethernet Port (GbE), RJ45, USB 3.1 Gen 1 Type-C to Type-A, Aluminum (U460-003-3A1G)",
+      "brand": "Tripp Lite",
+      "category": "Electronics",
+      "description": "",
+      "price": 2.54
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How satisfied are users with the Tripp Lite 3-Port USB‑C to USB‑A hub, including its Ethernet port?",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How satisfied are users with the Tripp Lite 3-Port USB‑C to USB‑A hub, including its Ethernet port?\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment and customer satisfaction level for the TP‑Link TC‑7610 cable modem across reviews?",
+    "target_item": {
+      "asin": "B010Q29YF8",
+      "title": "TP-Link TC-7610 DOCSIS 3.0 (8x4) Cable Modem. Max Download Speeds Up to 343Mbps. Certified for Comcast XFINITY, Spectrum, Cox, and more. Separate Router is Needed for Wi-Fi",
+      "brand": "TP-LINK",
+      "category": "Electronics",
+      "description": "",
+      "price": 2.54
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment and customer satisfaction level for the TP‑Link TC‑7610 cable modem across reviews?",
+          "limit": 12,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment and customer satisfaction level for the TP‑Link TC‑7610 cable modem across reviews?\", \"limit\": 12, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "Can you summarize the overall sentiment and satisfaction of users for the Samsung 850 EVO 1TB SSD by performing a semantic vector search?",
+    "target_item": {
+      "asin": "B00U82O92U",
+      "title": "Samsung 850 EVO - 1TB - M.2 SATA III Internal SSD (MZ-N5E1T0BW)",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "description": "",
+      "price": 14.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Can you summarize the overall sentiment and satisfaction of users for the Samsung 850 EVO 1TB SSD by performing a semantic vector search?",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Can you summarize the overall sentiment and satisfaction of users for the Samsung 850 EVO 1TB SSD by performing a semantic vector search?\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What's the overall sentiment or customer satisfaction in reviews of the Cable Matters 16 AWG 3-prong extension cord?",
+    "target_item": {
+      "asin": "B0153T1J8Y",
+      "title": "Cable Matters 6-Pack 16 AWG Heavy Duty 3 Prong AC Power Extension Cord (Power Extension Cable) in 1 Foot (NEMA 5-15P to NEMA 5-15R) - Available 1FT - 50FT",
+      "brand": "Cable Matters",
+      "category": "Electronics",
+      "description": "",
+      "price": 13.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What's the overall sentiment or customer satisfaction in reviews of the Cable Matters 16 AWG 3-prong extension cord?",
+          "limit": 9,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What's the overall sentiment or customer satisfaction in reviews of the Cable Matters 16 AWG 3-prong extension cord?\", \"limit\": 9, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment from customers about the Transcend 256GB Thunderbolt SSD StoreJet 500 for Mac?",
+    "target_item": {
+      "asin": "B00NV9LSGW",
+      "title": "Transcend 256GB Thunderbolt Solid State Drive StoreJet 500 for MAC (TS256GSJM500)",
+      "brand": "Transcend",
+      "category": "Electronics",
+      "description": "",
+      "price": 14.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment from customers about the Transcend 256GB Thunderbolt SSD StoreJet 500 for Mac?",
+          "limit": 10,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment from customers about the Transcend 256GB Thunderbolt SSD StoreJet 500 for Mac?\", \"limit\": 10, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What overall sentiment do customers express about the SanDisk 2GB Class 2 SD card?",
+    "target_item": {
+      "asin": "B0009RGLSE",
+      "title": "SanDisk 2 GB Class 2 SD Flash Memory Card SDSDB-2048-A11",
+      "brand": "SanDisk",
+      "category": "Electronics",
+      "description": "",
+      "price": 16.87
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What overall sentiment do customers express about the SanDisk 2GB Class 2 SD card?",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What overall sentiment do customers express about the SanDisk 2GB Class 2 SD card?\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "Could you summarize the overall sentiment and satisfaction among customers for the Zmodo Pan and Tilt Wireless Two-Way Audio Camera?",
+    "target_item": {
+      "asin": "B016I3T3CI",
+      "title": "Zmodo Pan and Tilt Wireless Two-Way Audio Camera Smart HD WiFi IP Camera with Night Vision",
+      "brand": "Zmodo",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "Could you summarize the overall sentiment and satisfaction among customers for the Zmodo Pan and Tilt Wireless Two-Way Audio Camera?",
+          "limit": 12,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"Could you summarize the overall sentiment and satisfaction among customers for the Zmodo Pan and Tilt Wireless Two-Way Audio Camera?\", \"limit\": 12, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "How overall positive are the reviews for the Apple Intel iMac 27\" Front Glass Replacement?",
+    "target_item": {
+      "asin": "B007WGD3H2",
+      "title": "For Apple Intel iMac 27&quot; Front Glass Replacement 922-9833",
+      "brand": "VIVO",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How overall positive are the reviews for the Apple Intel iMac 27\" Front Glass Replacement?",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How overall positive are the reviews for the Apple Intel iMac 27\\\" Front Glass Replacement?\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall customer sentiment toward the Kingston HyperX Impact 16GB memory from recent reviews?",
+    "target_item": {
+      "asin": "B00KQCOV5C",
+      "title": "Kingston Technology HyperX Impact 16GB (2 x 8G) 204-Pin DDR3 SO-DIMM DDR3L 1600 MHz (PC3L 12800) Laptop Memory Model HX316LS9IBK2/16",
+      "brand": "HyperX",
+      "category": "Electronics",
+      "description": "",
+      "price": 7.89
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall customer sentiment toward the Kingston HyperX Impact 16GB memory from recent reviews?",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall customer sentiment toward the Kingston HyperX Impact 16GB memory from recent reviews?\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "How do customers overall feel about the ASUS STRIX GeForce GTX 960 Overclocked 2GB graphics card in reviews?",
+    "target_item": {
+      "asin": "B00S9SGMZM",
+      "title": "ASUS STRIX GeForce GTX 960 Overclocked 2 GB DDR5 128-bit DisplayPort HDMI 2.0 DVI-I Graphics Card",
+      "brand": "Asus",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How do customers overall feel about the ASUS STRIX GeForce GTX 960 Overclocked 2GB graphics card in reviews?",
+          "limit": 8,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How do customers overall feel about the ASUS STRIX GeForce GTX 960 Overclocked 2GB graphics card in reviews?\", \"limit\": 8, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "How satisfied are customers with the Canjoy 6ft USB 3.0 extension cable based on reviews?",
+    "target_item": {
+      "asin": "B0135HDNMG",
+      "title": "USB Extender, Canjoy 3 Pack 6Ft USB 3.0 Extension Cable Nylon Braided A Male to A Female Data Transfer Repeater Cable for Playstion,Oculus VR,Xbox,USB Flash Drive,Card Reader,Hard Drive,Printer - Blue",
+      "brand": "Canjoy",
+      "category": "Electronics",
+      "description": "",
+      "price": 13.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "How satisfied are customers with the Canjoy 6ft USB 3.0 extension cable based on reviews?",
+          "limit": 8,
+          "threshold": 0.3
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"How satisfied are customers with the Canjoy 6ft USB 3.0 extension cable based on reviews?\", \"limit\": 8, \"threshold\": 0.3})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall customer satisfaction sentiment for the Anker Car Mount in recent product reviews?",
+    "target_item": {
+      "asin": "B01GNOEZB6",
+      "title": "Car Mount, Anker CD Slot Universal Phone Holder for iPhone X/8/8 Plus/7/7 plus/6s/6/6s Plus/6 Plus, S8/S7/S6/edge, LG G5, Nexus 5X/6/6P, Pixel 2 and Other Smartphones (Black)",
+      "brand": "Anker",
+      "category": "Electronics",
+      "description": "",
+      "price": null
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall customer satisfaction sentiment for the Anker Car Mount in recent product reviews?",
+          "limit": 8,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall customer satisfaction sentiment for the Anker Car Mount in recent product reviews?\", \"limit\": 8, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What is the overall sentiment or customer satisfaction for the Samsung 850 EVO 250GB SSD in recent reviews?",
+    "target_item": {
+      "asin": "B00OAJ412U",
+      "title": "Samsung 850 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-75E250B/AM)",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "description": "",
+      "price": 109.5
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What is the overall sentiment or customer satisfaction for the Samsung 850 EVO 250GB SSD in recent reviews?",
+          "limit": 12,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What is the overall sentiment or customer satisfaction for the Samsung 850 EVO 250GB SSD in recent reviews?\", \"limit\": 12, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What overall sentiment do customers express about the Samsung 850 EVO 1TB SSD in their reviews?",
+    "target_item": {
+      "asin": "B00OBRFFAS",
+      "title": "Samsung 850 EVO 1TB 2.5-Inch SATA III Internal SSD (MZ-75E1T0B/AM)",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "description": "",
+      "price": 14.99
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What overall sentiment do customers express about the Samsung 850 EVO 1TB SSD in their reviews?",
+          "limit": 11,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What overall sentiment do customers express about the Samsung 850 EVO 1TB SSD in their reviews?\", \"limit\": 11, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What overall sentiment do customers share about the Elegoo EL-CP-004 multicolored jumper wire kit?",
+    "target_item": {
+      "asin": "B01EV70C78",
+      "title": "Elegoo EL-CP-004 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino",
+      "brand": "ELEGOO",
+      "category": "Electronics",
+      "description": "",
+      "price": 6.98
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What overall sentiment do customers share about the Elegoo EL-CP-004 multicolored jumper wire kit?",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What overall sentiment do customers share about the Elegoo EL-CP-004 multicolored jumper wire kit?\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  },
+  {
+    "user_query": "What do customers think overall about the OP/TECH USA Mirrorless Strap—satisfied or dissatisfied?",
+    "target_item": {
+      "asin": "B00IMU48AS",
+      "title": "OP/TECH USA Mirrorless Strap - Camera Strap with Quick Disconnects for Lightweight Mirrorless Cameras (Black)",
+      "brand": "OP/TECH USA",
+      "category": "Electronics",
+      "description": "",
+      "price": 17.95
+    },
+    "ground_truth_calls": [
+      {
+        "tool": "sbert_vector_search",
+        "parameters": {
+          "query": "What do customers think overall about the OP/TECH USA Mirrorless Strap—satisfied or dissatisfied?",
+          "limit": 9,
+          "threshold": 0.2
+        },
+        "command": "call_tool('sbert_vector_search', {\"query\": \"What do customers think overall about the OP/TECH USA Mirrorless Strap—satisfied or dissatisfied?\", \"limit\": 9, \"threshold\": 0.2})"
+      }
+    ]
+  }
+]
